@@ -13,7 +13,7 @@
 
 <table border=0 CELLSPACING=0 CELLPADDING=0 width="100%">
   <tr><td>
-    Test is a this.
+    Table Content.
   </td></tr>
 </table>
 
@@ -23,7 +23,7 @@
   </a>
 </p>
 <p style="clear:left;">
-  <img align="right" height="200" src="Files/Confused-t.png">
+  <a href="#"><img align="right" height="200" src="Files/Confused-t.png"/></a>
   What if I put text here?
   Lots and lots and lots of text.  All sorts of text.  Much more text than I actually need.
   Lots and lots and lots of text.  All sorts of text.  Much more text than I actually need.
@@ -31,8 +31,8 @@
 </p>
 <br clear="both"/>
 <hr>
-$Id: README.md; 2020-09-18 00:36:05 -0500; crh$
-</p>
+<small>$Id: README.md; 2020-09-18 00:36:05 -0500; crh$</small>
+
 <!--  Default stuff (short-term useful):
 **c-r-h/c-r-h** is a ✨ _special_ ✨ repository because its `README.md`
 (this file) appears on your GitHub profile.
