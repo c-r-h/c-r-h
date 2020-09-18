@@ -31,7 +31,7 @@
 </p>
 <br clear="both"/>
 <hr>
-<small>$Id: README.md; 2020-09-18 00:36:05 -0500; crh$</small>
+<sub>$Id: README.md; 2020-09-18 00:36:05 -0500; crh$</sub>
 
 <!--  Default stuff (short-term useful):
 **c-r-h/c-r-h** is a ✨ _special_ ✨ repository because its `README.md`
