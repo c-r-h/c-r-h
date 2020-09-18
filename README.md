@@ -17,10 +17,13 @@
   </td></tr>
 </table>
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img
+  align="left"
   src="https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite&title_color=6070c0">
   </a>
+  My most recent work is on <a href="https://www.gitlab.com/crh/"><img
+  height="20" src="Files/Gitlab.Logo.png?raw=true"> GitLab</a>
 </p>
 <p style="clear:left;">
   <a href="#"><img align="right" height="200" src="Files/Confused-t.png"/></a>
@@ -31,7 +34,7 @@
 </p>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-18 01:55:27 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-18 02:00:57 -0500; crh$</sub>
 
 <!--  Default stuff (short-term useful):
 **c-r-h/c-r-h** is a ✨ _special_ ✨ repository because its `README.md`
