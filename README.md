@@ -11,24 +11,28 @@
 🚴
 ☕
 
+<table border=0 CELLSPACING=0 CELLPADDING=0 width="100%">
+  <tr><td>
+    Test is a this.
+  </td></tr>
+</table>
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img
   src="https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite&title_color=6870b8">
   </a>
 </p>
-<p><table cellspacing="0" cellpadding="0" width="100%" >
-  <tr><td>
-  What if I put text here?
+<p style="clear:left;">
   <img align="right" height="200" src="Files/Confused-t.png">
-  </td></tr>
-</table></p>
-
-<br>
-<p style="clear:both;">
+  What if I put text here?
+  Lots and lots and lots of text.  All sorts of text.  Much more text than I actually need.
+  Lots and lots and lots of text.  All sorts of text.  Much more text than I actually need.
+  Lots and lots and lots of text.  All sorts of text.  Much more text than I actually need.
+</p>
+<br clear="both"/>
 <hr>
 $Id: README.md; 2020-09-18 00:36:05 -0500; crh$
 </p>
-
 <!--  Default stuff (short-term useful):
 **c-r-h/c-r-h** is a ✨ _special_ ✨ repository because its `README.md`
 (this file) appears on your GitHub profile.
