@@ -16,13 +16,16 @@
   src="https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite&title_color=6870b8">
   </a>
 </p>
-<p align="left">
-  <img align="right" height="200" src="Files/Confused-t.png">
+<p><table cellspacing="0" cellpadding="0" width="100%" >
+  <tr><td>
   What if I put text here?
-</p>
+  <img align="right" height="200" src="Files/Confused-t.png">
+  </td></tr>
+</table></p>
 
+<br>
 <p style="clear:both;">
-<br><hr>
+<hr>
 $Id: README.md; 2020-09-18 00:36:05 -0500; crh$
 </p>
 
