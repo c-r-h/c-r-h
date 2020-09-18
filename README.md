@@ -1,6 +1,10 @@
 ![Header](Images/CaribouRock-02Jan2020.jpg "The Winter Coder")
 ### The Winter Coder
 
+<p align='center'>
+<a href="https://www.linkedin.com/in/chrishertel/"><img height="32"
+   src="https://github.com/c-r-h/Images/linkedin.png?raw=true"></a>
+</p>
 
 🤺
 🚴
@@ -21,6 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite)
 --
 $Id$
