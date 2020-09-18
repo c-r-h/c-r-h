@@ -1,6 +1,6 @@
 ![Header](Files/CaribouRock-02Jan2020.jpg "The Winter Coder")
 ### The Winter Coder
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/chrishertel/"><img height="32"
      src="Files/LinkedIn.Logo.png?raw=true"></a>
   <a href="https://www.gitlab.com/crh/"><img height="32"
@@ -16,8 +16,10 @@
 src="https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite">
 </a>
 
+![Footer](Files/Confused-t.png)
+
 ----
-$Id: README.md; 2020-09-17 22:46:00 -0500; crh$
+$Id: README.md; 2020-09-17 23:59:45 -0500; crh$
 
 <!--  Default stuff (short-term useful):
 **c-r-h/c-r-h** is a ✨ _special_ ✨ repository because its `README.md`
