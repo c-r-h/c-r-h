@@ -1,12 +1,14 @@
-![Header](CaribouRock-02Jan2020.jpg "The Winter Coder")
+![Header](Images/CaribouRock-02Jan2020.jpg "The Winter Coder")
 ### The Winter Coder
+
 
 🤺
 🚴
-
+☕
 
 <!--  Default stuff (short-term useful):
-**c-r-h/c-r-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**c-r-h/c-r-h** is a ✨ _special_ ✨ repository because its `README.md`
+(this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+--
+$Id$
