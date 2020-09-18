@@ -17,7 +17,7 @@
   </td></tr>
 </table>
 
-<p align="right">
+<p style="clear:right;">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img
   align="left"
   src="https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite&title_color=6070c0">
@@ -25,6 +25,7 @@
   My most recent work is on <a href="https://www.gitlab.com/crh/"><img
   height="20" src="Files/Gitlab.Logo.png?raw=true"> GitLab</a>
 </p>
+<br clear="both"/><br/>
 <p style="clear:left;">
   <a href="#"><img align="right" height="200" src="Files/Confused-t.png"/></a>
   What if I put text here?
