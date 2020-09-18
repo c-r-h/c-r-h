@@ -12,10 +12,11 @@
 🚴
 ☕
 
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"
 src="https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite">
 </a>
-
+</p>
 <p align="right">
 <img height="200" src="Files/Confused-t.png">
 </p>
