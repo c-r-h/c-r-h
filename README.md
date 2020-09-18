@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img
-  src="https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite">
+  src="https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite&title_color=6870b8">
   </a>
 </p>
 <p align="right">
@@ -21,7 +21,7 @@
 </p>
 
 ----
-$Id: README.md; 2020-09-18 00:23:11 -0500; crh$
+$Id: README.md; 2020-09-18 00:36:05 -0500; crh$
 
 <!--  Default stuff (short-term useful):
 **c-r-h/c-r-h** is a ✨ _special_ ✨ repository because its `README.md`
