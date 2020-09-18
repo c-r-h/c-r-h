@@ -12,10 +12,10 @@
 🚴
 ☕
 
-<p style="text-align: center;">
-![Readme Page Stats](https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite&align=right)
-</p>
---
+<img align="center"
+ src="https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite">
+
+----
 $Id: README.md; 2020-09-17 22:46:00 -0500; crh$
 
 <!--  Default stuff (short-term useful):
