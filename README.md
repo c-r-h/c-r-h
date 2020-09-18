@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img
-  src="https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite&title_color=6870b8">
+  src="https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite&title_color=6070c0">
   </a>
 </p>
 <p style="clear:left;">
@@ -31,7 +31,7 @@
 </p>
 <br clear="both"/>
 <hr>
-<small>$Id: README.md; 2020-09-18 00:36:05 -0500; crh$</small>
+<div style="font-size:10px">$Id: README.md; 2020-09-18 01:34:56 -0500; crh$</div>
 
 <!--  Default stuff (short-term useful):
 **c-r-h/c-r-h** is a ✨ _special_ ✨ repository because its `README.md`
