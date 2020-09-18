@@ -16,7 +16,9 @@
 src="https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite">
 </a>
 
-![Footer](Files/Confused-t.png)
+<p align="right">
+<img height="200" src="Files/Confused-t.png">
+</p>
 
 ----
 $Id: README.md; 2020-09-17 23:59:45 -0500; crh$
