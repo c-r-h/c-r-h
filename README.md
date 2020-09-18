@@ -3,8 +3,10 @@
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/chrishertel/"><img height="32"
-   src="https://github.com/c-r-h/Images/linkedin.png?raw=true"></a>
+   src="https://github.com/c-r-h/c-r-h/blob/master/Images/linkedin.png?raw=true"
+   ></a>
 </p>
+
 
 🤺
 🚴
