@@ -12,8 +12,9 @@
 🚴
 ☕
 
-<img align="center"
- src="https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"
+src="https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite">
+</a>
 
 ----
 $Id: README.md; 2020-09-17 22:46:00 -0500; crh$
