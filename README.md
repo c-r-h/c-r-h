@@ -49,13 +49,11 @@ Android dev?
 
 ### GitLab
 
-<img src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"/>
-
 🤺
 🚴
 ☕
 
-<table border=0 CELLSPACING=0 CELLPADDING=0 width="100%">
+<table>
   <tr><td>
     Table Content.
   </td></tr>
@@ -70,12 +68,16 @@ Android dev?
   height="20" src="Files/Gitlab.Logo.png?raw=true"> GitLab</a>
 </p>
 <br clear="both"/><br/>
+<a href="#"><img align="right" height="200" src="Files/Confused-t.png"/></a>
 <p style="clear:left;">
-  <a href="#"><img align="right" height="200" src="Files/Confused-t.png"/></a>
   What if I put text here?
   Lots and lots and lots of text.  All sorts of text.  Much more text than I actually need.
   Lots and lots and lots of text.  All sorts of text.  Much more text than I actually need.
   Lots and lots and lots of text.  All sorts of text.  Much more text than I actually need.
+  <br clear="left"/>
+  <a href="https://www.strava.com/athletes/christopher_hertel"><img
+     align="left"                                                               
+     src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 </p>
 <br clear="both"/>
 <hr>
