@@ -4,27 +4,24 @@
 If you're looking for code, there's more over on [<img height="20"
 src="Files/Gitlab.Logo.png"> GitLab][GitLabCRH].  I am currently focused on
 [<img height="20" src="Files/Zambezi.ProjectLogo.png"> Zambezi][GitLabZ],
-which is an [SMB3][SMB3] Offload Engine.
+which is an [SMB3][WinSMB3] Offload Engine.
 
 I started using GitLab a few years ago.  It's not as flashy as GitHub, but I
 learned a few tricks and got used to it.  Moving back and forth between the
 two is 90% easy and 10% annoying corner cases that trip me up.
 
-### 🛠️ The Works
-- <span class="text-purple">SMB/CIFS, SMB2/SMB3>
-  The latter half of my career has been built on sharing my knowledge of
-  Windows core protocols, particularly Server Message Block (SMB).
-  - The <span style="text-color:green;">SMB/CIFS</span> protocol specification
+### 🛠️ SMB/CIFS, SMB2/SMB3
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chrishertel/"><img height="32"
-     src="Files/LinkedIn.Logo.png?raw=true"></a>
-  <a href="https://www.gitlab.com/crh/"><img height="32"
-     src="Files/Gitlab.Logo.png?raw=true"></a>
-</p>
-
-
-SMB:  Why do we even care any more?
+[Samba Team][SambaTeam] Member\n
+I write code and share knowledge about Windows core network protocols,
+particularly Server Message Block ([SMB][WikiPediaSMB]).
+- [Implementing CIFS][ImpCIFS]\n
+  Long ago, I wrote a book about CIFS (aka SMB1).
+- [[MS-CIFS]][MS-CIFS] and [[MS-SMB]][MS-SMB]\n
+  Less long ago, I put together a team to write the CIFS specifications
+    and update the SMB1 spec for Microsoft.\n
+- These days I work on SMB2/3, particularly integration with distributed
+  file systems and processor offload.
 
 ### Home Office Network
 - Storage arrays
@@ -60,11 +57,19 @@ Android dev?
 🚴
 ☕
 
-<table>
+<table align="center">
   <tr><td>
     Table Content.
   </td></tr>
 </table>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chrishertel/"><img height="32"
+     src="Files/LinkedIn.Logo.png?raw=true"></a>
+  <a href="https://www.gitlab.com/crh/"><img height="32"
+     src="Files/Gitlab.Logo.png?raw=true"></a>
+</p>
+
 
 <p style="clear:right;">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img
@@ -88,12 +93,15 @@ Android dev?
    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-20 13:01:01 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-20 14:06:54 -0500; crh$</sub>
 
 
 
 <!-- Reference Links -->
-[SMB3]: https://docs.microsoft.com/en-us/windows-server/storage/file-server/file-server-smb-overview
+[MS-SMB]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/f210069c-7086-4dc2-885e-861d837df688
+[MS-CIFS]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cifs/d416ff7c-c536-406e-a951-4f04b2fd1d2b
+[WinSMB3]: https://docs.microsoft.com/en-us/windows-server/storage/file-server/file-server-smb-overview
+[ImpCIFS]: http://ubiqx.org/cifs
 [GitLabZ]:https://gitlab.com/ubiqx/zambezi
 [GitLabCRH]: https://www.gitlab.com/crh
-
+[WikiPediaSMB]: https://en.wikipedia.org/wiki/Server_Message_Block
