@@ -75,10 +75,10 @@ Android dev?
   Lots and lots and lots of text.  All sorts of text.  Much more text than I actually need.
   Lots and lots and lots of text.  All sorts of text.  Much more text than I actually need.
   <br clear="left"/>
-  <a href="https://www.strava.com/athletes/christopher_hertel"><img
-     align="left"                                                               
-     src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 </p>
+<a href="https://www.strava.com/athletes/christopher_hertel"><img
+   align="left"                                                               
+   src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 <br clear="both"/>
 <hr>
 <sub>$Id: README.md; 2020-09-20 11:04:40 -0500; crh$</sub>
