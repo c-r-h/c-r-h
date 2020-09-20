@@ -12,22 +12,33 @@ two is 90% easy and 10% annoying corner cases that trip me up.
 
 ### 🛠️ SMB/CIFS, SMB2/SMB3
 
-[Samba Team][SambaTeam] Member\n
+[Samba Team][SambaTeam] Member<br/>
 I write code and share knowledge about Windows core network protocols,
 particularly Server Message Block ([SMB][WikiPediaSMB]).
-- [Implementing CIFS][ImpCIFS]\n
+- [Implementing CIFS][ImpCIFS]<br/>
   Long ago, I wrote a book about CIFS (aka SMB1).
-- [[MS-CIFS]][MS-CIFS] and [[MS-SMB]][MS-SMB]\n
+- [[MS-CIFS]][MS-CIFS] and [[MS-SMB]][MS-SMB]<br/>
   Less long ago, I put together a team to write the CIFS specifications
-    and update the SMB1 spec for Microsoft.\n
-- These days I work on SMB2/3, particularly integration with distributed
-  file systems and processor offload.
+  and update the SMB1 spec for Microsoft.<br/>
+- These days I work on SMB2/3 integration with distributed file systems, and
+  on main processor offload.
 
-### Home Office Network
-- Storage arrays
-- Firewall & WiFi
+### My Fiefdom
+- The Home Network<br/>
+  The network used to be split between business and home.  There were two
+  Soekris routers (remember those?) running [OpenBSD's][OpenBSD]
+  [Packet Filter][PFilter], with routing in between.  It was a great setup,
+  and I ran things that way for years.  More recently, I've combined down to
+  a single network.  I run [OpnSense][OpnSense] on a
+  [Protectli Vault][ProVault].  OpnSense is easier to manage day-to day, but
+  I miss being able to fine tune my firewall to meet my picky specifications.
 - What I'd like for distributed FW, monitoring and analysis.
 - Reverse proxy web services
+
+- Servers<br/>
+  The server systems make use of [Linux MD RAID][LinuxRAID] for basic data
+  protection.
+
 
 ### Ideas
 - SMB3 NAS Offload Engine
@@ -93,9 +104,7 @@ Android dev?
    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-20 14:06:54 -0500; crh$</sub>
-
-
+<sub>$Id: README.md; 2020-09-20 14:54:16 -0500; crh$</sub>
 
 <!-- Reference Links -->
 [MS-SMB]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/f210069c-7086-4dc2-885e-861d837df688
@@ -105,3 +114,8 @@ Android dev?
 [GitLabZ]:https://gitlab.com/ubiqx/zambezi
 [GitLabCRH]: https://www.gitlab.com/crh
 [WikiPediaSMB]: https://en.wikipedia.org/wiki/Server_Message_Block
+[OpenBSD]: https://www.openbsd.org/index.html
+[PFilter]: https://www.openbsd.org/faq/pf/
+[OpnSense]: https://opnsense.org/
+[ProVault]: https://protectli.com/vault-4-port/
+[LinuxRAID]: https://raid.wiki.kernel.org/index.php/Linux_Raid
