@@ -1,10 +1,10 @@
 ![Header](Files/CaribouRock-02Jan2020.jpg "The Winter Coder")
 ## ☃️ The Winter Coder
 
-If you're looking for code, there's more over on [<img height="20"
-  src="Files/Gitlab.Logo.png"> GitLab][GitLabCRH].  I am currently focused
-  on [<img height="20" src="Files/Zambezi.ProjectLogo.png">
-  Zambezi][GitLabZ], which is an [SMB3][SMB3] Offload Engine.
+If you're looking for code, there's more over on [[GitLabLogo] GitLab]
+  [GitLabCRH].  I am currently focused on [<img height="20"
+  src="Files/Zambezi.ProjectLogo.png"> Zambezi][GitLabZ], which is an
+  [SMB3][SMB3] Offload Engine.
 
 
 Thing 1:  I started using GitLab a few years ago.  It's not as flashy as
@@ -82,11 +82,12 @@ Android dev?
    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-20 12:36:09 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-20 12:43:28 -0500; crh$</sub>
 
 
 
 <!-- Reference Links -->
 [SMB3]: https://docs.microsoft.com/en-us/windows-server/storage/file-server/file-server-smb-overview
-[GitLabCRH]: https://www.gitlab.com/crh
 [GitLabZ]:https://gitlab.com/ubiqx/zambezi
+[GitLabCRH]: https://www.gitlab.com/crh
+[GitLabLogo]: Files/Gitlab.Logo.png height="20"
