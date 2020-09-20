@@ -1,14 +1,20 @@
 ![Header](Files/CaribouRock-02Jan2020.jpg "The Winter Coder")
 ## ☃️ The Winter Coder
 
-If you're looking for code, there's more over on [[GitLabLogo] GitLab]
-  [GitLabCRH].  I am currently focused on [<img height="20"
-  src="Files/Zambezi.ProjectLogo.png"> Zambezi][GitLabZ], which is an
-  [SMB3][SMB3] Offload Engine.
+If you're looking for code, there's more over on [<img height="20"
+src="Files/Gitlab.Logo.png"> GitLab][GitLabCRH].  I am currently focused on
+[<img height="20" src="Files/Zambezi.ProjectLogo.png"> Zambezi][GitLabZ],
+which is an [SMB3][SMB3] Offload Engine.
 
+I started using GitLab a few years ago.  It's not as flashy as GitHub, but I
+learned a few tricks and got used to it.  Moving back and forth between the
+two is 90% easy and 10% annoying corner cases that trip me up.
 
-Thing 1:  I started using GitLab a few years ago.  It's not as flashy as
-          GitHub but I learned a few tricks and got used to it.
+### 🛠️ The Works
+- <span class="text-purple">SMB/CIFS, SMB2/SMB3>
+  The latter half of my career has been built on sharing my knowledge of
+  Windows core protocols, particularly Server Message Block (SMB).
+  - The <span style="text-color:green;">SMB/CIFS</span> protocol specification
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chrishertel/"><img height="32"
@@ -82,7 +88,7 @@ Android dev?
    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-20 12:43:28 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-20 13:01:01 -0500; crh$</sub>
 
 
 
@@ -90,4 +96,4 @@ Android dev?
 [SMB3]: https://docs.microsoft.com/en-us/windows-server/storage/file-server/file-server-smb-overview
 [GitLabZ]:https://gitlab.com/ubiqx/zambezi
 [GitLabCRH]: https://www.gitlab.com/crh
-[GitLabLogo]: Files/Gitlab.Logo.png height="20"
+
