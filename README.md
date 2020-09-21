@@ -27,10 +27,10 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
     These days I'm working on SMB2/3 integration with distributed file
     systems, and on SMB3 Offload.  I think it would be cool if the low-level
     message handling could be moved to a SmartNIC or similar device.<br/>
-    ◦ Compression and Encryption<br/>
-    ◦ Multichannel and Multi-protocol<br/>
-    ◦ Packet marshalling/unmarshalling<br/>
-    ◦ Direct I/O<br/>
+    - Compression and Encryption
+    - Multichannel and Multi-protocol
+    - Packet marshalling/unmarshalling
+    - Direct I/O
   - I started fiddling with [PeerDist][MS-PCCRC] a while back, but have not
     spent time on it in...well...years.  I plan to get back to it.
     Eventually.
