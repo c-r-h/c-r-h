@@ -12,12 +12,12 @@ two is 90% easy and 10% annoying corner cases that trip me up.
 
 ### 🛠️ SMB/CIFS, SMB2/SMB3
 
-[Samba Team][SambaTeam] Member<br/>
+**[Samba Team][SambaTeam] Member**<br/>
 I write code and share knowledge about Windows core network protocols,
 particularly Server Message Block ([SMB][WikiPediaSMB]).
 - [Implementing CIFS][ImpCIFS]<br/>
   Long ago, I wrote a book about CIFS (aka SMB1).
-- [[MS-CIFS]][MS-CIFS] and [[MS-SMB]][MS-SMB]<br/>
+- [[MS-CIFS]] and [[MS-SMB]]<br/>
   Less long ago, I put together a team to write the CIFS specifications
   and update the SMB1 spec for Microsoft.<br/>
 - These days I work on SMB2/3 integration with distributed file systems, and
@@ -111,6 +111,7 @@ Android dev?
 [MS-CIFS]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cifs/d416ff7c-c536-406e-a951-4f04b2fd1d2b
 [WinSMB3]: https://docs.microsoft.com/en-us/windows-server/storage/file-server/file-server-smb-overview
 [ImpCIFS]: http://ubiqx.org/cifs
+[SambaTeam]: https://www.samba.org/samba/team/
 [GitLabZ]:https://gitlab.com/ubiqx/zambezi
 [GitLabCRH]: https://www.gitlab.com/crh
 [WikiPediaSMB]: https://en.wikipedia.org/wiki/Server_Message_Block
