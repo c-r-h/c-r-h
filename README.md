@@ -15,7 +15,7 @@ two is 90% easy and 10% annoying corner cases that trip me up.
 **[Samba Team][SambaTeam] Member**<br/>
 I write code and share knowledge about Windows core network protocols,
 particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
-<a href="#"><img align="left" height="240" src="Files/Pointing.png"/></a>
+<a href="#"><img align="left" height="360" src="Files/Pointing.png"/></a>
   - [Implementing CIFS][ImpCIFS]<br/>
     Long ago, I wrote a book about CIFS (aka SMB1).  Despite Microsoft
     having [deprecated SMB1][SMB1JoseB], the book is still relevant today.
@@ -26,16 +26,14 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   - [SMB3 Offload Engine][Zambezi]<br/>
     These days I'm working on SMB2/3 integration with distributed file
     systems, and on SMB3 Offload.  I think it would be cool if the low-level
-    message handling could be moved to a SmartNIC or similar device.
-    - Compression
-    - Encryption
-    - Multichannel and Multi-protocol
-    - Packet marshalling/unmarshalling
-    - Shortcut read and write operations
+    message handling could be moved to a SmartNIC or similar device.<br/>
+    ◦ Compression and Encryption<br/>
+    ◦ Multichannel and Multi-protocol<br/>
+    ◦ Packet marshalling/unmarshalling<br/>
+    ◦ Direct I/O<br/>
   - I started fiddling with [PeerDist][MS-PCCRC] a while back, but have not
     spent time on it in...well...years.  I plan to get back to it.
     Eventually.
-
 <br clear="both"/>
 
 ### 🏰 My Fiefdom
