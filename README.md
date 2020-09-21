@@ -12,7 +12,6 @@ two is 90% easy and 10% annoying corner cases that trip me up.
 
 ### 🛠️ SMB/CIFS, SMB2/SMB3
 
-<a href="#"><img align="right" src="Files/CIFS-Conf-Logo-New.png"/></a>
 <a href="#"><img align="left" height="320" src="Files/Pointing.png"/></a>
 - **[Samba Team][SambaTeam] Member**<br/>
   I write code and share knowledge about Windows core network protocols,
