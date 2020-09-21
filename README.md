@@ -17,14 +17,17 @@ I write code and share knowledge about Windows core network protocols,
 particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
 <a href="#"><img align="left" height="240" src="Files/Pointing.png"/></a>
   - [Implementing CIFS][ImpCIFS]<br/>
-    Long ago, I wrote a book about CIFS (aka SMB1).  I, for one, still use it
-    as a reference from time to time.  Though it is quite outdated, it is still
-    relevant.
+    Long ago, I wrote a book about CIFS (aka SMB1).  Despite Microsoft
+    having [deprecated SMB1][SMB1JoseB], the book is still relevant today.
+    I, for one, still use it as a reference from time to time.
   - [[MS-CIFS]] and [[MS-SMB]]<br/>
     A bit less long ago, I put together a team to write the CIFS
     specifications and update the SMB1 spec for Microsoft.<br/>
-  - These days I work on SMB2/3 integration with distributed file systems, and
-    on [processor offload][Zambezi].
+  - These days I work on SMB2/3 integration with distributed file systems,
+    and on [processor offload][Zambezi].
+  - I started fiddling with [PeerDist][MS-PCCRC] a while back, but have not
+    spent time on it in...well...years.  I plan to get back to it.
+    Eventually.
 
 <br clear="both"/>
 
@@ -111,7 +114,7 @@ Android dev?
    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-20 21:06:59 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-20 21:50:37 -0500; crh$</sub>
 
 <!-- Reference Links -->
 [MS-SMB]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/f210069c-7086-4dc2-885e-861d837df688
@@ -127,3 +130,5 @@ Android dev?
 [OpnSense]: https://opnsense.org/
 [ProVault]: https://protectli.com/vault-4-port/
 [LinuxRAID]: https://raid.wiki.kernel.org/index.php/Linux_Raid
+[SMB1JoseB]: https://docs.microsoft.com/en-us/archive/blogs/josebda/the-deprecation-of-smb1-you-should-be-planning-to-get-rid-of-this-old-smb-dialect
+[MS-PCCRC]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-pccrc/51cb03f8-c0dd-4565-9882-aeb5ab0fa07e
