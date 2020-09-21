@@ -12,20 +12,23 @@ two is 90% easy and 10% annoying corner cases that trip me up.
 
 ### 🛠️ SMB/CIFS, SMB2/SMB3
 
-
-- **[Samba Team][SambaTeam] Member**<br/>
+**[Samba Team][SambaTeam] Member**<br/>
 I write code and share knowledge about Windows core network protocols,
-particularly Server Message Block ([SMB][WikiPediaSMB]).
-<a href="#"><img align="left" height="320" src="Files/Pointing.png"/></a>
+particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
+<a href="#"><img align="left" height="240" src="Files/Pointing.png"/></a>
   - [Implementing CIFS][ImpCIFS]<br/>
-    Long ago, I wrote a book about CIFS (aka SMB1).
+    Long ago, I wrote a book about CIFS (aka SMB1).  I, for one, still use it
+    as a reference from time to time.  Though it is quite outdated, it is still
+    relevant.
   - [[MS-CIFS]] and [[MS-SMB]]<br/>
     A bit less long ago, I put together a team to write the CIFS
     specifications and update the SMB1 spec for Microsoft.<br/>
   - These days I work on SMB2/3 integration with distributed file systems, and
     on [processor offload][Zambezi].
 
-### My Fiefdom
+<br clear="both"/>
+
+### 🏰 My Fiefdom
 
 <a href="#"><img align="right" src="Files/FlyingHouseCloud.png"/></a>
 - The Home Network<br/>
