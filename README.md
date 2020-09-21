@@ -23,8 +23,15 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   - [[MS-CIFS]] and [[MS-SMB]]<br/>
     A bit less long ago, I put together a team to write the CIFS
     specifications and update the SMB1 spec for Microsoft.<br/>
-  - These days I work on SMB2/3 integration with distributed file systems,
-    and on [processor offload][Zambezi].
+  - [SMB3 Offload Engine][Zambezi]<br/>
+    These days I'm working on SMB2/3 integration with distributed file
+    systems, and on SMB3 Offload.  I think it would be cool if the low-level
+    message handling could be moved to a SmartNIC or similar device.
+    - Compression
+    - Encryption
+    - Multichannel and Multi-protocol
+    - Packet marshalling/unmarshalling
+    - Shortcut read and write operations
   - I started fiddling with [PeerDist][MS-PCCRC] a while back, but have not
     spent time on it in...well...years.  I plan to get back to it.
     Eventually.
@@ -114,7 +121,7 @@ Android dev?
    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-20 21:50:37 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-20 21:55:06 -0500; crh$</sub>
 
 <!-- Reference Links -->
 [MS-SMB]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/f210069c-7086-4dc2-885e-861d837df688
