@@ -12,6 +12,7 @@ two is 90% easy and 10% annoying corner cases that trip me up.
 
 ### 🛠️ SMB/CIFS, SMB2/SMB3
 
+<a href="#"><img align="right" src="Files/CIFS-Conf-Logo-New.png"/></a>
 <a href="#"><img align="left" height="320" src="Files/Pointing.png"/></a>
 - **[Samba Team][SambaTeam] Member**<br/>
   I write code and share knowledge about Windows core network protocols,
@@ -22,10 +23,12 @@ two is 90% easy and 10% annoying corner cases that trip me up.
     A bit less long ago, I put together a team to write the CIFS
     specifications and update the SMB1 spec for Microsoft.<br/>
   - These days I work on SMB2/3 integration with distributed file systems, and
-    on [processor offload][Zambezi].
-
+    on [processor offload][Zamb ezi].
 <br clear="both"/>
+
 ### My Fiefdom
+
+<a href="#"><img align="right" src="Files/FlyingHouseCloud.png"/></a>
 - The Home Network<br/>
   The network used to be split between business and home.  There were two
   Soekris routers (remember those?) running [OpenBSD's][OpenBSD]
@@ -106,7 +109,7 @@ Android dev?
    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-20 20:54:09 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-20 21:06:59 -0500; crh$</sub>
 
 <!-- Reference Links -->
 [MS-SMB]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/f210069c-7086-4dc2-885e-861d837df688
