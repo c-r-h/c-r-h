@@ -3,7 +3,7 @@
 
 If you're looking for code, there's more over on [<img height="20"
 src="Files/Gitlab.Logo.png"> GitLab][GitLabCRH].  I am currently focused on
-[<img height="20" src="Files/Zambezi.ProjectLogo.png"> Zambezi][GitLabZ],
+[<img height="20" src="Files/Zambezi.ProjectLogo.png"> Zambezi][Zambezi],
 which is an [SMB3][WinSMB3] Offload Engine.
 
 I started using GitLab a few years ago.  It's not as flashy as GitHub, but I
@@ -12,16 +12,17 @@ two is 90% easy and 10% annoying corner cases that trip me up.
 
 ### 🛠️ SMB/CIFS, SMB2/SMB3
 
+<a href="#"><img align="left" height="320" src="Files/Pointing.png"/></a>
 **[Samba Team][SambaTeam] Member**<br/>
 I write code and share knowledge about Windows core network protocols,
 particularly Server Message Block ([SMB][WikiPediaSMB]).
 - [Implementing CIFS][ImpCIFS]<br/>
   Long ago, I wrote a book about CIFS (aka SMB1).
 - [[MS-CIFS]] and [[MS-SMB]]<br/>
-  Less long ago, I put together a team to write the CIFS specifications
-  and update the SMB1 spec for Microsoft.<br/>
+  A bit less long ago, I put together a team to write the CIFS
+  specifications and update the SMB1 spec for Microsoft.<br/>
 - These days I work on SMB2/3 integration with distributed file systems, and
-  on main processor offload.
+  on [processor offload][Zambezi].
 
 ### My Fiefdom
 - The Home Network<br/>
@@ -104,7 +105,7 @@ Android dev?
    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-20 14:54:16 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-20 20:52:31 -0500; crh$</sub>
 
 <!-- Reference Links -->
 [MS-SMB]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/f210069c-7086-4dc2-885e-861d837df688
@@ -112,7 +113,7 @@ Android dev?
 [WinSMB3]: https://docs.microsoft.com/en-us/windows-server/storage/file-server/file-server-smb-overview
 [ImpCIFS]: http://ubiqx.org/cifs
 [SambaTeam]: https://www.samba.org/samba/team/
-[GitLabZ]:https://gitlab.com/ubiqx/zambezi
+[Zambezi]:https://gitlab.com/ubiqx/zambezi
 [GitLabCRH]: https://www.gitlab.com/crh
 [WikiPediaSMB]: https://en.wikipedia.org/wiki/Server_Message_Block
 [OpenBSD]: https://www.openbsd.org/index.html
