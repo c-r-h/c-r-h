@@ -12,18 +12,18 @@ two is 90% easy and 10% annoying corner cases that trip me up.
 
 ### 🛠️ SMB/CIFS, SMB2/SMB3
 
-<a href="#"><img align="left" height="320" src="Files/Pointing.png"/></a>
+
 - **[Samba Team][SambaTeam] Member**<br/>
-  I write code and share knowledge about Windows core network protocols,
-  particularly Server Message Block ([SMB][WikiPediaSMB]).
+I write code and share knowledge about Windows core network protocols,
+particularly Server Message Block ([SMB][WikiPediaSMB]).
+<a href="#"><img align="left" height="320" src="Files/Pointing.png"/></a>
   - [Implementing CIFS][ImpCIFS]<br/>
     Long ago, I wrote a book about CIFS (aka SMB1).
   - [[MS-CIFS]] and [[MS-SMB]]<br/>
     A bit less long ago, I put together a team to write the CIFS
     specifications and update the SMB1 spec for Microsoft.<br/>
   - These days I work on SMB2/3 integration with distributed file systems, and
-    on [processor offload][Zamb ezi].
-<br clear="both"/>
+    on [processor offload][Zambezi].
 
 ### My Fiefdom
 
