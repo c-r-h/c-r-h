@@ -54,7 +54,6 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   The server systems make use of [Linux MD RAID][LinuxRAID] for basic data
   protection.
 
-
 ### Ideas
 - SMB3 NAS Offload Engine
 - SMB3 Python Toolit
@@ -67,17 +66,14 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
 - 2.5Gb switch
 - Seed Board
 - Good ol' Raspberry Pi
+- DPU; eager to see what comes of it.
 
 My desktop system is twelve years old.  My laptop is ten years old.  My
 Chromebook is six months old but only because the old one broke.
 
 Android dev?
 
-### Books and Docs
-- Written
-- Reading
-
-### GitLab
+### Reading
 
 🤺
 🚴
