@@ -101,21 +101,17 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   particularly a resilient mesh, as described above.  I think we'd need to
   add in some redundancy and possibly some form of journaling so that fenced
   nodes can recover cleanly.
+  <a href="#"><img align="left" height="180" src="Files/Sprite.png"/></a>
 - **PeerDist**
-  <a href="#"><img align="left" height="210" src="Files/Sprite.png"/></a>
   This one keeps coming up time and again, and it's entangled with so much
   else...<br/>
-
   [PeerDist][MS-PCCRC] is the protocol suite at the core of [BranchCache],
   which is a distributed caching system that Microsoft uses for web content,
   SMB3 files, and for software updates (see [BITS]).  I have created test
   code for working with PeerDist and BITS.  The next step would be polish up
   the PeerDist code, add PeerDistv2 support, and write the code for an Open
-  Source Hosted Cache.  PeerDist combines all sorts of stuff I like.
-    ◦ Protocols<br/>
-    ◦ Data Storage<br/>
-    ◦ Key/Value<br/>
-    ◦ Distributed Computing<br/>
+  Source Hosted Cache.  PeerDist combines all sorts of cool stuff, like
+  Protocols, Data Storage, Key/Value Lookup, and Distributed Computing.
 <br clear="both"/>
 
 ### Cool Hardware
@@ -172,7 +168,7 @@ Android dev?
    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-22 16:55:07 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-22 17:02:57 -0500; crh$</sub>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
