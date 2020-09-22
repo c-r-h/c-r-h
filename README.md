@@ -67,6 +67,7 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   run in my basement.  I use CentOS Linux Minimal and add what I need if I
   need it, but these systems don't need much.  Home, business, and personal
   storage and, of course, testing.
+<br clear="both"/>
 
 ### Ideas
 - **SMB3 NAS Offload Engine**<br/>
@@ -75,11 +76,16 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   The goal is to develop and standardize a sensible interface between the
   SMB3 Syntactic and Semantic layers, making it possible to offload the
   Syntactic part of the stack to a [SmartNIC] or [DPU].  The interface
-  layer may also have relevance in direct memory-to-memory data transfers
-  such as [SDXI].
-- **SMB3 Python Toolit**<br/>
-- **Secure Overlay Network**<br/>
+  layer may also have relevance in direct memory-to-memory data transfer
+  systems such as [SDXI].
   <a href="#"><img align="right" height="210" src="Files/SmartGuy-t.png"/></a>
+- **SMB3 Python Toolkit**<br/>
+  [ubiqx/Carnaval][Carnaval] is an SMB2/3 toolkit in Python, aimed at
+  building test cases and simple tools quickly and easily.  It also provides
+  support for [NBT] transport.  Carnaval is written in Python 2, not Py3.
+  The project has languished a bit over the years, but as Zambezi progresses
+  the need for such a toolkit only increases.
+- **Secure Overlay Network**<br/>
 - **Wide Area Distributed Key/Value store**
 - **PeerDist**
 
@@ -137,7 +143,7 @@ Android dev?
    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-22 12:55:32 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-22 13:56:56 -0500; crh$</sub>
 
 <!-- Reference Links -->
 [MS-SMB]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/f210069c-7086-4dc2-885e-861d837df688
