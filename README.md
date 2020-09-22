@@ -18,11 +18,13 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
 <a href="#"><img align="left" height="360" src="Files/Pointing.png"/></a>
   - [Implementing CIFS][ImpCIFS]<br/>
     Long ago, I wrote a book about CIFS (aka SMB1).  Despite Microsoft
-    having [deprecated SMB1][SMB1JoseB], the book is still relevant today.
-    I, for one, still use it as a reference from time to time.
+    having [deprecated SMB1][SMB1JoseB], the book is still relevant today
+    and I, for one, still use it as a reference from time to time.
   - [[MS-CIFS]] and [[MS-SMB]]<br/>
     A bit less long ago, I put together a team to write the CIFS
-    specifications and update the SMB1 spec for Microsoft.<br/>
+    specifications for Microsoft.  We wrote [[MS-CIFS]] from scratch and
+    overhauled [[MS-SMB]].  The latter volume represents the additions and
+    changes made to SMB1 starting with Windows 2000.<br/>
   - [SMB3 Offload Engine][Zambezi]<br/>
     These days I'm working on SMB2/3 integration with distributed file
     systems, and on SMB3 Offload.  I think it would be cool if the low-level
@@ -39,25 +41,40 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
 ### 🏰 My Fiefdom
 
 <a href="#"><img align="right" src="Files/FlyingHouseCloud.png"/></a>
-- The Home Network<br/>
-  The network used to be split between business and home.  There were two
+- **The Home Network**<br/>
+  The network was once split between business and home.  There were two
   Soekris routers (remember those?) running [OpenBSD's][OpenBSD]
-  [Packet Filter][PFilter], with routing in between.  It was a great setup,
-  and I ran things that way for years.  More recently, I've combined down to
-  a single network.  I run [OpnSense][OpnSense] on a
-  [Protectli Vault][ProVault].  OpnSense is easier to manage day-to day, but
-  I miss being able to fine tune my firewall to meet my picky specifications.
-- What I'd like for distributed FW, monitoring and analysis.
-- Reverse proxy web services
-
-- Servers<br/>
-  The server systems make use of [Linux MD RAID][LinuxRAID] for basic data
-  protection.
+  [Packet Filter][PFilter] (pf), with routing in between.  It was a great
+  setup, and I ran things that way for years.  More recently, I've combined
+  down to a single network.  I run [OpnSense][OpnSense] on a
+  [ProtectliVault][ProVault].  OpnSense is easier to manage day-to day, but
+  I miss being able to fine tune my firewall to meet my own picky
+  specifications and preferences.
+- **Firewall Futures**
+  * I used to have uplinks to two disreputable behemoth ISP services.  That's
+    down to one, now.  Two would permit load balancing and failover, which I
+    would like to try.
+  * I want to collect data at the firewalls, and coordinate with
+    (anonymized) data from other firewalls to look for patterns.  You know,
+    Big Data/AI stuff.
+- **Reverse Proxy Web**<br/>
+  Slowly, but committedly, I'm spending free cycles building up a home web
+  server with the goal of running a reverse caching proxy elsewhere on the
+  'net and connecting the two via VPN.  I'm sharing this effort with a
+  family member, who is an accomplished Software Developer in her own
+  right.  Proud to be part of a cool family.
+- **File Servers**<br/>
+  I have a set of [Linux MD RAID][LinuxRAID] based Samba fileservers that I
+  run in my basement.  I use CentOS Linux Minimal and add what I need if I
+  need it, but these systems don't need much.  Home, business, and personal
+  storage and, of course, testing.
 
 ### Ideas
-- SMB3 NAS Offload Engine
+<a href="#"><img align="right" src="Files/SmartGuy-t.png"/></a>
+- **SMB3 NAS Offload Engine**<br/>
+  Words go here.
 - SMB3 Python Toolit
-- Secure Overly Network
+- Secure Overlay Network
 - Wide Area Distributed Key/Value store
 - PeerDist
 
@@ -115,7 +132,7 @@ Android dev?
    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-20 21:55:06 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-22 12:33:59 -0500; crh$</sub>
 
 <!-- Reference Links -->
 [MS-SMB]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/f210069c-7086-4dc2-885e-861d837df688
