@@ -93,8 +93,8 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   something really cool--particularly in these work-from-home times.  There
   are certainly extant examples, like [tinc], which supports mesh
   networking. I'm looking into tinc, and others, to see what fits best.
-  [OpnSense] supports tinc, so perhaps the job is done.  I feel the need to
-  dig into the code a bit.<br/>
+  [OpnSense] supports tinc, so perhaps the job is done, but I feel the need
+  to dig into the code a bit.<br/>
   <a href="#"><img align="left" height="180" src="Files/Sprite.png"/></a>
 - **Wide Area Distributed Key/Value store**
   Key/Value stores are generally built for performance.  I'm interested in
@@ -112,37 +112,40 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   the PeerDist code, add PeerDistv2 support, and write the code for an Open
   Source Hosted Cache.  PeerDist combines all sorts of cool stuff, like
   Protocols, Data Storage, Key/Value Lookup, and Distributed Computing.
-<br clear="both"/>
 
-### Cool Hardware
-- Kobol
-- 2.5Gb switch
-- Seed Board
-- Good ol' Raspberry Pi
-- DPU; eager to see what comes of it.
+### 🧰 Cool Hardware
 
 My desktop system is twelve years old.  My laptop is ten years old.  My
-Chromebook is six months old but only because the old one broke.
+Chromebook is only six months old, but that's because the screen shattered
+on the original one.  I'm not really into hardware.  I'm into making
+software work well even on substandard hardware.  That said, there are some
+cool products that I've been eying:
+
+- The [Kobol Helios64][https://kobol.io/] would be a great little platform
+  for testing out some of my SMB3 Offload ideas.  It'd also work as a (yet
+  another) home storage system.
+- I like the look of the [Seed Odyssey SBC][SeedO].  I'm not sure yet
+  exactly how I would use it, and how it would be an improvement over the
+  Raspberry Pi I already have.
+- So... at the core of a [SmartNIC] is a [DPU].  There's now a company
+  making a [stand-alone DPU][FungiDPU] which, if I read their marketing
+  material correctly, could be added to the computer mainboard along with
+  the CPU, FPU, etc.  In any case, I'm interested to see what can be done
+  with this chip.
+
+
+
+### Further Study
 
 Android dev?
 
-### Reading
 
 🤺
 🚴
 ☕
 
-<table align="center">
-  <tr><td>
-    Table Content.
-  </td></tr>
-</table>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chrishertel/"><img height="32"
-     src="Files/LinkedIn.Logo.png?raw=true"></a>
-  <a href="https://www.gitlab.com/crh/"><img height="32"
-     src="Files/Gitlab.Logo.png?raw=true"></a>
 </p>
 
 
@@ -157,10 +160,10 @@ Android dev?
 <br clear="both"/><br/>
 <a href="#"><img align="right" height="200" src="Files/Confused-t.png"/></a>
 <p style="clear:left;">
-  What if I put text here?
-  Lots and lots and lots of text.  All sorts of text.  Much more text than I actually need.
-  Lots and lots and lots of text.  All sorts of text.  Much more text than I actually need.
-  Lots and lots and lots of text.  All sorts of text.  Much more text than I actually need.
+  <a href="https://www.linkedin.com/in/chrishertel/"><img height="32"
+     src="Files/LinkedIn.Logo.png?raw=true"></a>
+  <a href="https://www.gitlab.com/crh/"><img height="32"
+     src="Files/Gitlab.Logo.png?raw=true"></a>
   <br clear="left"/>
 </p>
 <a href="https://www.strava.com/athletes/christopher_hertel"><img
@@ -168,7 +171,7 @@ Android dev?
    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-22 17:02:57 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-22 18:23:35 -0500; crh$</sub>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
@@ -176,6 +179,7 @@ Android dev?
 [BITS]: https://docs.microsoft.com/en-us/windows/win32/bits/background-intelligent-transfer-service-portal
 [SDXI]: https://www.snia.org/sdxi
 [tinc]: https://www.tinc-vpn.org/
+[SeedO]: https://www.seeedstudio.com/ODYSSEY-X86J4105864-p-4447.html
 [MS-SMB]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/f210069c-7086-4dc2-885e-861d837df688
 [ImpCIFS]: http://ubiqx.org/cifs
 [MS-CIFS]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cifs/d416ff7c-c536-406e-a951-4f04b2fd1d2b
@@ -189,6 +193,7 @@ Android dev?
 [OpnSense]: https://opnsense.org/
 [ProVault]: https://protectli.com/vault-4-port/
 [SmartNIC]: https://blog.mellanox.com/2018/08/defining-smartnic/
+[FungiDPU]: https://www.fungible.com/dpu-platform/
 [GitLabCRH]: https://www.gitlab.com/crh
 [LinuxRAID]: https://raid.wiki.kernel.org/index.php/Linux_Raid
 [SambaTeam]: https://www.samba.org/samba/team/
