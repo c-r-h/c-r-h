@@ -74,7 +74,9 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   <a href="#"><img align="left" height="64" src="Files/SmartNIC.png"/></a>
   The goal is to develop and standardize a sensible interface between the
   SMB3 Syntactic and Semantic layers, making it possible to offload the
-  Syntactic part of the stack to a [SmartNIC] or [DPU].
+  Syntactic part of the stack to a [SmartNIC] or [DPU].  The interface
+  layer may also have relevance in direct memory-to-memory data transfers
+  such as [SDXI].
 - **SMB3 Python Toolit**<br/>
 - **Secure Overlay Network**<br/>
   <a href="#"><img align="right" height="210" src="Files/SmartGuy-t.png"/></a>
@@ -155,3 +157,4 @@ Android dev?
 [MS-PCCRC]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-pccrc/51cb03f8-c0dd-4565-9882-aeb5ab0fa07e
 [SmartNIC]: https://blog.mellanox.com/2018/08/defining-smartnic/
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
+[SDXI]: https://www.snia.org/sdxi
