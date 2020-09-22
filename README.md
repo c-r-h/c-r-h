@@ -79,7 +79,7 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   Syntactic part of the stack to a [SmartNIC] or [DPU].  The interface
   layer may also have relevance in direct memory-to-memory data transfer
   systems such as [SDXI].
-  <a href="#"><img align="right" height="210" src="Files/SmartGuy-t.png"/></a>
+  <a href="#"><img align="right" height="140" src="Files/SmartGuy-t.png"/></a>
 - **SMB3 Python Toolkit**<br/>
   [Carnaval] is an SMB2/3 toolkit in Python, aimed at
   building test cases and simple tools quickly and easily.  It also provides
@@ -94,14 +94,14 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   are certainly extant examples, like [tinc], which supports mesh
   networking. I'm looking into tinc, and others, to see what fits best.
   [OpnSense] supports tinc, so perhaps the job is done.  I feel the need to
-  dig into the code a bit.
+  dig into the code a bit.<br/>
+  <a href="#"><img align="left" height="180" src="Files/Sprite.png"/></a>
 - **Wide Area Distributed Key/Value store**
   Key/Value stores are generally built for performance.  I'm interested in
   what happens when that model is extended over a wide area network,
   particularly a resilient mesh, as described above.  I think we'd need to
   add in some redundancy and possibly some form of journaling so that fenced
   nodes can recover cleanly.
-  <a href="#"><img align="left" height="180" src="Files/Sprite.png"/></a>
 - **PeerDist**
   This one keeps coming up time and again, and it's entangled with so much
   else...<br/>
