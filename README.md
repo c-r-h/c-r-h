@@ -81,7 +81,7 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   systems such as [SDXI].
   <a href="#"><img align="right" height="210" src="Files/SmartGuy-t.png"/></a>
 - **SMB3 Python Toolkit**<br/>
-  [ubiqx/Carnaval][Carnaval] is an SMB2/3 toolkit in Python, aimed at
+  [Carnaval] is an SMB2/3 toolkit in Python, aimed at
   building test cases and simple tools quickly and easily.  It also provides
   support for [NBT] transport.  Carnaval is written in Python 2, not Py3.
   The project has languished a bit over the years, but as Zambezi progresses
@@ -172,7 +172,7 @@ Android dev?
    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-22 16:40:38 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-22 16:44:39 -0500; crh$</sub>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
@@ -180,6 +180,7 @@ Android dev?
 [SDXI]: https://www.snia.org/sdxi
 [tinc]: https://www.tinc-vpn.org/
 [MS-SMB]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/f210069c-7086-4dc2-885e-861d837df688
+<<<<<<< HEAD
 [ImpCIFS]: http://ubiqx.org/cifs
 [MS-CIFS]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cifs/d416ff7c-c536-406e-a951-4f04b2fd1d2b
 [OpenBSD]: https://www.openbsd.org/index.html
@@ -192,8 +193,30 @@ Android dev?
 [ProVault]: https://protectli.com/vault-4-port/
 [SmartNIC]: https://blog.mellanox.com/2018/08/defining-smartnic/
 [GitLabCRH]: https://www.gitlab.com/crh
+=======
+[MS-CIFS]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cifs/d416ff7c-c536-406e-a951-4f04b2fd1d2b
+[WinSMB3]: https://docs.microsoft.com/en-us/windows-server/storage/file-server/file-server-smb-overview
+[ImpCIFS]: http://ubiqx.org/cifs/
+[SambaTeam]: https://www.samba.org/samba/team/
+[Zambezi]:https://gitlab.com/ubiqx/zambezi
+[GitLabCRH]: https://www.gitlab.com/crh
+[WikiPediaSMB]: https://en.wikipedia.org/wiki/Server_Message_Block
+[OpenBSD]: https://www.openbsd.org/index.html
+[PFilter]: https://www.openbsd.org/faq/pf
+[OpnSense]: https://opnsense.org
+[ProVault]: https://protectli.com/vault-4-port
+>>>>>>> d37d45fa164c5f55494219d527984cd52b15dc00
 [LinuxRAID]: https://raid.wiki.kernel.org/index.php/Linux_Raid
 [SambaTeam]: https://www.samba.org/samba/team/
 [SMB1JoseB]: https://docs.microsoft.com/en-us/archive/blogs/josebda/the-deprecation-of-smb1-you-should-be-planning-to-get-rid-of-this-old-smb-dialect
+<<<<<<< HEAD
 [BranchCache] https://docs.microsoft.com/en-us/windows-server/networking/branchcache/branchcache
 [WikiPediaSMB]: https://en.wikipedia.org/wiki/Server_Message_Block
+=======
+[MS-PCCRC]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-pccrc/51cb03f8-c0dd-4565-9882-aeb5ab0fa07e
+[SmartNIC]: https://blog.mellanox.com/2018/08/defining-smartnic
+[DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
+[SDXI]: https://www.snia.org/sdxi
+[Carnaval]: https://github.com/ubiqx-org/Carnaval
+[NBT]: http://www.ubiqx.org/cifs/NetBIOS.html
+>>>>>>> d37d45fa164c5f55494219d527984cd52b15dc00
