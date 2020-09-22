@@ -71,7 +71,11 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
 
 ### Ideas
 - **SMB3 NAS Offload Engine**<br/>
-  Words go here.
+  _Top Project_
+  <a href="#"><img height="210" src="Files/SmartNIC.png"/></a>
+  The goal of the [Zambezi] project is to develop a sensible interface
+  between the SMB3 Syntactic and Semantic layers.  That makes it possible to
+  offload the Syntactic part of the stack to a SmartNIC or [DPU].
 - SMB3 Python Toolit
 - Secure Overlay Network
   <a href="#"><img align="right" height="210" src="Files/SmartGuy-t.png"/></a>
@@ -132,7 +136,7 @@ Android dev?
    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-22 12:37:59 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-22 12:55:32 -0500; crh$</sub>
 
 <!-- Reference Links -->
 [MS-SMB]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/f210069c-7086-4dc2-885e-861d837df688
@@ -150,3 +154,4 @@ Android dev?
 [LinuxRAID]: https://raid.wiki.kernel.org/index.php/Linux_Raid
 [SMB1JoseB]: https://docs.microsoft.com/en-us/archive/blogs/josebda/the-deprecation-of-smb1-you-should-be-planning-to-get-rid-of-this-old-smb-dialect
 [MS-PCCRC]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-pccrc/51cb03f8-c0dd-4565-9882-aeb5ab0fa07e
+[DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
