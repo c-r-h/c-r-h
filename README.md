@@ -46,10 +46,9 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   Soekris routers (remember those?) running [OpenBSD's][OpenBSD]
   [Packet Filter][PFilter] (pf), with routing in between.  It was a great
   setup, and I ran things that way for years.  More recently, I've combined
-  down to a single network.  I run [OpnSense][OpnSense] on a
-  [ProtectliVault][ProVault].  OpnSense is easier to manage day-to day, but
-  I miss being able to fine tune my firewall to meet my own picky
-  specifications and preferences.
+  down to a single network.  I run [OpnSense] on a [Protectli Vault][ProVault].
+  OpnSense is easier to manage day-to day, but I miss being able to fine tune
+  my firewall to meet my own picky specifications and preferences.
 - **Firewall Futures**
   * I used to have uplinks to two disreputable behemoth ISP services.  That's
     down to one, now.  Two would permit load balancing and failover, which I
@@ -71,16 +70,16 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
 
 ### Ideas
 - **SMB3 NAS Offload Engine**<br/>
-  _Top Project_
-  <a href="#"><img height="210" src="Files/SmartNIC.png"/></a>
-  The goal of the [Zambezi] project is to develop a sensible interface
-  between the SMB3 Syntactic and Semantic layers.  That makes it possible to
-  offload the Syntactic part of the stack to a SmartNIC or [DPU].
-- SMB3 Python Toolit
-- Secure Overlay Network
+  Top Project: [Zambezi]<br/>
+  <a href="#"><img align="left" height="64" src="Files/SmartNIC.png"/></a>
+  The goal is to develop and standardize a sensible interface between the
+  SMB3 Syntactic and Semantic layers, making it possible to offload the
+  Syntactic part of the stack to a [SmartNIC] or [DPU].
+- **SMB3 Python Toolit**<br/>
+- **Secure Overlay Network**<br/>
   <a href="#"><img align="right" height="210" src="Files/SmartGuy-t.png"/></a>
-- Wide Area Distributed Key/Value store
-- PeerDist
+- **Wide Area Distributed Key/Value store**
+- **PeerDist**
 
 ### Cool Hardware
 - Kobol
@@ -154,4 +153,5 @@ Android dev?
 [LinuxRAID]: https://raid.wiki.kernel.org/index.php/Linux_Raid
 [SMB1JoseB]: https://docs.microsoft.com/en-us/archive/blogs/josebda/the-deprecation-of-smb1-you-should-be-planning-to-get-rid-of-this-old-smb-dialect
 [MS-PCCRC]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-pccrc/51cb03f8-c0dd-4565-9882-aeb5ab0fa07e
+[SmartNIC]: https://blog.mellanox.com/2018/08/defining-smartnic/
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
