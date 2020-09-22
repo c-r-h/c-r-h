@@ -69,7 +69,8 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   storage and, of course, testing.
 <br clear="both"/>
 
-### Ideas
+### 💡 Ideas
+
 - **SMB3 NAS Offload Engine**<br/>
   Top Project: [Zambezi]<br/>
   <a href="#"><img align="left" height="64" src="Files/SmartNIC.png"/></a>
@@ -86,8 +87,36 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   The project has languished a bit over the years, but as Zambezi progresses
   the need for such a toolkit only increases.
 - **Secure Overlay Network**<br/>
+  Back when I designed networks for the University of Minnesota, I became
+  enamored of [Resilient Overlay Networks][WikiRON].  If you mix in some VPN
+  capabilities, erasure codes, and clever routing algorithms, you might have
+  something really cool--particularly in these work-from-home times.  There
+  are certainly extant examples, like [tinc], which supports mesh
+  networking. I'm looking into tinc, and others, to see what fits best.
+  [OpnSense] supports tinc, so perhaps the job is done.  I feel the need to
+  dig into the code a bit.
 - **Wide Area Distributed Key/Value store**
+  Key/Value stores are generally built for performance.  I'm interested in
+  what happens when that model is extended over a wide area network,
+  particularly a resilient mesh, as described above.  I think we'd need to
+  add in some redundancy and possibly some form of journaling so that fenced
+  nodes can recover cleanly.
 - **PeerDist**
+  <a href="#"><img align="left" height="210" src="Files/Sprite.png"/></a>
+  This one keeps coming up time and again, and it's entangled with so much
+  else...<br/>
+
+  [PeerDist][MS-PCCRC] is the protocol suite at the core of [BranchCache],
+  which is a distributed caching system that Microsoft uses for web content,
+  SMB3 files, and for software updates (see [BITS]).  I have created test
+  code for working with PeerDist and BITS.  The next step would be polish up
+  the PeerDist code, add PeerDistv2 support, and write the code for an Open
+  Source Hosted Cache.  PeerDist combines all sorts of stuff I like.
+    ◦ Protocols<br/>
+    ◦ Data Storage<br/>
+    ◦ Key/Value<br/>
+    ◦ Distributed Computing<br/>
+<br clear="both"/>
 
 ### Cool Hardware
 - Kobol
@@ -143,24 +172,28 @@ Android dev?
    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-22 13:56:56 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-22 16:40:38 -0500; crh$</sub>
 
 <!-- Reference Links -->
+[DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
+[BITS]: https://docs.microsoft.com/en-us/windows/win32/bits/background-intelligent-transfer-service-portal
+[SDXI]: https://www.snia.org/sdxi
+[tinc]: https://www.tinc-vpn.org/
 [MS-SMB]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/f210069c-7086-4dc2-885e-861d837df688
-[MS-CIFS]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cifs/d416ff7c-c536-406e-a951-4f04b2fd1d2b
-[WinSMB3]: https://docs.microsoft.com/en-us/windows-server/storage/file-server/file-server-smb-overview
 [ImpCIFS]: http://ubiqx.org/cifs
-[SambaTeam]: https://www.samba.org/samba/team/
-[Zambezi]:https://gitlab.com/ubiqx/zambezi
-[GitLabCRH]: https://www.gitlab.com/crh
-[WikiPediaSMB]: https://en.wikipedia.org/wiki/Server_Message_Block
+[MS-CIFS]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cifs/d416ff7c-c536-406e-a951-4f04b2fd1d2b
 [OpenBSD]: https://www.openbsd.org/index.html
 [PFilter]: https://www.openbsd.org/faq/pf/
+[WikiRON]: https://en.wikipedia.org/wiki/Overlay_network#Resilience
+[WinSMB3]: https://docs.microsoft.com/en-us/windows-server/storage/file-server/file-server-smb-overview
+[Zambezi]: https://gitlab.com/ubiqx/zambezi
+[MS-PCCRC]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-pccrc/51cb03f8-c0dd-4565-9882-aeb5ab0fa07e
 [OpnSense]: https://opnsense.org/
 [ProVault]: https://protectli.com/vault-4-port/
-[LinuxRAID]: https://raid.wiki.kernel.org/index.php/Linux_Raid
-[SMB1JoseB]: https://docs.microsoft.com/en-us/archive/blogs/josebda/the-deprecation-of-smb1-you-should-be-planning-to-get-rid-of-this-old-smb-dialect
-[MS-PCCRC]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-pccrc/51cb03f8-c0dd-4565-9882-aeb5ab0fa07e
 [SmartNIC]: https://blog.mellanox.com/2018/08/defining-smartnic/
-[DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
-[SDXI]: https://www.snia.org/sdxi
+[GitLabCRH]: https://www.gitlab.com/crh
+[LinuxRAID]: https://raid.wiki.kernel.org/index.php/Linux_Raid
+[SambaTeam]: https://www.samba.org/samba/team/
+[SMB1JoseB]: https://docs.microsoft.com/en-us/archive/blogs/josebda/the-deprecation-of-smb1-you-should-be-planning-to-get-rid-of-this-old-smb-dialect
+[BranchCache] https://docs.microsoft.com/en-us/windows-server/networking/branchcache/branchcache
+[WikiPediaSMB]: https://en.wikipedia.org/wiki/Server_Message_Block
