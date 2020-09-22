@@ -70,11 +70,11 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   storage and, of course, testing.
 
 ### Ideas
-<a href="#"><img align="right" src="Files/SmartGuy-t.png"/></a>
 - **SMB3 NAS Offload Engine**<br/>
   Words go here.
 - SMB3 Python Toolit
 - Secure Overlay Network
+  <a href="#"><img align="right" height="210" src="Files/SmartGuy-t.png"/></a>
 - Wide Area Distributed Key/Value store
 - PeerDist
 
@@ -132,7 +132,7 @@ Android dev?
    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-22 12:33:59 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-22 12:37:59 -0500; crh$</sub>
 
 <!-- Reference Links -->
 [MS-SMB]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/f210069c-7086-4dc2-885e-861d837df688
