@@ -80,7 +80,7 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   systems such as [SDXI].
   <a href="#"><img align="right" height="210" src="Files/SmartGuy-t.png"/></a>
 - **SMB3 Python Toolkit**<br/>
-  [ubiqx/Carnaval][Carnaval] is an SMB2/3 toolkit in Python, aimed at
+  [Carnaval] is an SMB2/3 toolkit in Python, aimed at
   building test cases and simple tools quickly and easily.  It also provides
   support for [NBT] transport.  Carnaval is written in Python 2, not Py3.
   The project has languished a bit over the years, but as Zambezi progresses
@@ -149,18 +149,20 @@ Android dev?
 [MS-SMB]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/f210069c-7086-4dc2-885e-861d837df688
 [MS-CIFS]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cifs/d416ff7c-c536-406e-a951-4f04b2fd1d2b
 [WinSMB3]: https://docs.microsoft.com/en-us/windows-server/storage/file-server/file-server-smb-overview
-[ImpCIFS]: http://ubiqx.org/cifs
+[ImpCIFS]: http://ubiqx.org/cifs/
 [SambaTeam]: https://www.samba.org/samba/team/
 [Zambezi]:https://gitlab.com/ubiqx/zambezi
 [GitLabCRH]: https://www.gitlab.com/crh
 [WikiPediaSMB]: https://en.wikipedia.org/wiki/Server_Message_Block
 [OpenBSD]: https://www.openbsd.org/index.html
-[PFilter]: https://www.openbsd.org/faq/pf/
-[OpnSense]: https://opnsense.org/
-[ProVault]: https://protectli.com/vault-4-port/
+[PFilter]: https://www.openbsd.org/faq/pf
+[OpnSense]: https://opnsense.org
+[ProVault]: https://protectli.com/vault-4-port
 [LinuxRAID]: https://raid.wiki.kernel.org/index.php/Linux_Raid
 [SMB1JoseB]: https://docs.microsoft.com/en-us/archive/blogs/josebda/the-deprecation-of-smb1-you-should-be-planning-to-get-rid-of-this-old-smb-dialect
 [MS-PCCRC]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-pccrc/51cb03f8-c0dd-4565-9882-aeb5ab0fa07e
-[SmartNIC]: https://blog.mellanox.com/2018/08/defining-smartnic/
+[SmartNIC]: https://blog.mellanox.com/2018/08/defining-smartnic
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
 [SDXI]: https://www.snia.org/sdxi
+[Carnaval]: https://github.com/ubiqx-org/Carnaval
+[NBT]: http://www.ubiqx.org/cifs/NetBIOS.html
