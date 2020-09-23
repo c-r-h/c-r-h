@@ -113,27 +113,27 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   Source Hosted Cache.  PeerDist combines all sorts of cool stuff, like
   Protocols, Data Storage, Key/Value Lookup, and Distributed Computing.
 
-### <a href="#"><img align="left" height="18" src="Files/Hardware02.png"/></a>
-Cool Hardware
+### 🔩 Cool Hardware
 
 My desktop system is twelve years old.  My laptop is ten years old.  My
 Chromebook is only six months old, but that's because the screen shattered
 on the original one.  I'm not really into hardware.  I'm into making
-software work well even on substandard hardware.  That said, there are some
-cool products that I've been eying:
+software work well even on substandard hardware.
+<a href="#"><img align="right" height="130" src="Files/Hardware01.png"/></a>
+That said, there are some cool products that I've been eying:
 
 - The [Kobol Helios64](https://kobol.io/) would be a great little platform
   for testing out some of my SMB3 Offload ideas.  It'd also work as a (yet
   another) home storage system.
 - I like the look of the [Seed Odyssey SBC][SeedO].  I'm not sure yet
   exactly how I would use it, and how it would be an improvement over the
-  Raspberry Pi I already have.
+  Raspberry Pi I already have.<br/>
+  <a href="#"><img height="24" src="Files/Hardware02.png"/></a>
 - So... at the core of a [SmartNIC] is a [DPU].  There's now a company
   making a [stand-alone DPU][FungiDPU] which, if I read their marketing
   material correctly, could be added to a computer mainboard for a closer
   connection with the CPU, memory, etc.  In any case, I'm interested to
   see what can be done with this chip.
-
 
 
 ### Further Study
@@ -145,27 +145,13 @@ Android dev?
 🚴
 ☕
 
-
-<p align="center">
-</p>
-
-
+<br clear="both"/><br/>
+<a href="#"><img align="right" height="200" src="Files/Confused-t.png"/></a>
 <p style="clear:right;">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img
   align="left"
   src="https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite&title_color=6070c0">
   </a>
-  My most recent work is on <a href="https://www.gitlab.com/crh/"><img
-  height="20" src="Files/Gitlab.Logo.png?raw=true"> GitLab</a>
-</p>
-<br clear="both"/><br/>
-<a href="#"><img align="right" height="200" src="Files/Confused-t.png"/></a>
-<p style="clear:left;">
-  <a href="https://www.linkedin.com/in/chrishertel/"><img height="32"
-     src="Files/LinkedIn.Logo.png?raw=true"></a>
-  <a href="https://www.gitlab.com/crh/"><img height="32"
-     src="Files/Gitlab.Logo.png?raw=true"></a>
-  <br clear="left"/>
 </p>
 <a href="https://www.strava.com/athletes/christopher_hertel"><img
    align="left"
@@ -173,6 +159,14 @@ Android dev?
 <br clear="both"/>
 <hr>
 <sub>$Id: README.md; 2020-09-22 19:15:28 -0500; crh$</sub>
+
+<p style="clear:left;">
+  <a href="https://www.linkedin.com/in/chrishertel/"><img height="32"
+     src="Files/LinkedIn.Logo.png"></a>
+  <a href="https://www.gitlab.com/crh/"><img height="32"
+     src="Files/Gitlab.Logo.png"></a>
+  <br clear="left"/>
+</p>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
