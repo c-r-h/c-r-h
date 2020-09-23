@@ -158,7 +158,7 @@ do a bit more learning.
 ### 🤯 More Yet
 
 - ☕ I enjoy [a decent cup o'tea](http://ubiqx.org/cifs/Appendix-A.html).
-- 🤺 I used to be an active fencer. (Foil:C, Épée:D)
+- 🤺 For much of my life I was an active fencer. (Foil:C, Épée:D)
 - 🚴 These days I prefer to ride a bicycle.
 - <a href="https://www.linkedin.com/in/chrishertel/"><img height="22"
      src="Files/LinkedIn.Logo.png"></a> You can find me on LinkedIn.
@@ -177,7 +177,7 @@ do a bit more learning.
 </p>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-22 20:46:29 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-22 20:49:09 -0500; crh$</sub>
 
 
 <!-- Reference Links -->
