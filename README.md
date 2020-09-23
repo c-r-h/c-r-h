@@ -146,15 +146,15 @@ Android dev?
 ☕
 
 <br clear="both"/><br/>
-<a href="#"><img align="right" height="200" src="Files/Confused-t.png"/></a>
 <p style="float:left;">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img
-  align="left"
-  src="https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite&title_color=6070c0">
-  </a><br/>
+    align="left"
+    src="https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite&title_color=6070c0">
+  </a><br clear="right"/>
+  <a href="#"><img align="right" height="200" src="Files/Confused-t.png"/></a>
   <a href="https://www.strava.com/athletes/christopher_hertel"><img
-   align="left"
-   src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
+    align="left"
+    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 </p>
 
 <br clear="both"/>
