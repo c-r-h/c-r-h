@@ -12,10 +12,10 @@ two is 90% easy and 10% annoying corner cases that trip me up.
 
 ### 🛠️ SMB/CIFS, SMB2/SMB3
 
+<a href="#"><img align="left" height="360" src="Files/Pointing.png"/></a>
 **[Samba Team][SambaTeam] Member**<br/>
 I write code and share knowledge about Windows core network protocols,
-particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
-<a href="#"><img align="left" height="360" src="Files/Pointing.png"/></a>
+particularly Server Message Block ([SMB][WikiPediaSMB]).
   - [Implementing CIFS][ImpCIFS]<br/>
     Long ago, I wrote a book about CIFS (aka SMB1).  Despite Microsoft
     having [deprecated SMB1][SMB1JoseB], the book is still relevant today
@@ -112,6 +112,7 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   the PeerDist code, add PeerDistv2 support, and write the code for an Open
   Source Hosted Cache.  PeerDist combines all sorts of cool stuff, like
   Protocols, Data Storage, Key/Value Lookup, and Distributed Computing.
+<br clear="both"/>
 
 ### 🔩 Cool Hardware
 
@@ -134,12 +135,13 @@ That said, there are some cool products that I've been eying:
   material correctly, could be added to a computer mainboard for a closer
   connection with the CPU, memory, etc.  In any case, I'm interested to
   see what can be done with this chip.
-
+<br clear="both"/>
 
 ### 📖 Further Study
 
 There isn't much time, given everything listed above, but it would be fun to
 do a bit more learning.
+<a href="#"><img align="left" src="Files/SleepyStudent.png"/></a>
 - **Android Development**<br/>
   You know... apps and such.<br/>
   A long time ago I co-founded a project called jCIFS that eventually grew
@@ -152,11 +154,12 @@ do a bit more learning.
   so I guess it's a good time to get practical experience.
 - Kubernetes, Ansible, Terraform... yeah, I need to fly through the clouds
   more.
+<br clear="both"/>
 
 ### 🤯 More Yet
 
-- ☕ I enjoy a good cup o'[tea][http://ubiqx.org/cifs/Appendix-A.html].
-- 🤺 I used to be an active fencer. \[Foil:C, Épée:D]
+- ☕ I enjoy [a decent cup o'tea](http://ubiqx.org/cifs/Appendix-A.html).
+- 🤺 I used to be an active fencer. (Foil:C, Épée:D)
 - 🚴 These days I prefer to ride a bicycle.
 - <a href="https://www.linkedin.com/in/chrishertel/"><img height="24"
      src="Files/LinkedIn.Logo.png"></a> You can find me on LinkedIn.
