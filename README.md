@@ -78,8 +78,8 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
   Syntactic part of the stack to a [SmartNIC] or [DPU].  The interface
   layer may also have relevance in direct memory-to-memory data transfer
   systems such as [SDXI].
-  <a href="#"><img align="right" height="140" src="Files/SmartGuy-t.png"/></a>
 - **SMB3 Python Toolkit**<br/>
+  <a href="#"><img align="right" height="140" src="Files/SmartGuy-t.png"/></a>
   [Carnaval] is an SMB2/3 toolkit in Python, aimed at
   building test cases and simple tools quickly and easily.  It also provides
   support for [NBT] transport.  Carnaval is written in Python 2, not Py3.
@@ -177,7 +177,7 @@ do a bit more learning.
 </p>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-22 20:49:09 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-22 21:03:02 -0500; crh$</sub>
 
 
 <!-- Reference Links -->
