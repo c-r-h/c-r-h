@@ -113,7 +113,8 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/><br/>
   Source Hosted Cache.  PeerDist combines all sorts of cool stuff, like
   Protocols, Data Storage, Key/Value Lookup, and Distributed Computing.
 
-### 🧰 Cool Hardware
+### <a href="#"><img align="left" height="18" src="Files/Hardware02.png"/></a>
+Cool Hardware
 
 My desktop system is twelve years old.  My laptop is ten years old.  My
 Chromebook is only six months old, but that's because the screen shattered
@@ -171,7 +172,7 @@ Android dev?
    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-22 18:23:35 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-22 19:15:28 -0500; crh$</sub>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
