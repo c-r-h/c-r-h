@@ -121,7 +121,7 @@ on the original one.  I'm not really into hardware.  I'm into making
 software work well even on substandard hardware.  That said, there are some
 cool products that I've been eying:
 
-- The [Kobol Helios64][https://kobol.io/] would be a great little platform
+- The [Kobol Helios64](https://kobol.io/) would be a great little platform
   for testing out some of my SMB3 Offload ideas.  It'd also work as a (yet
   another) home storage system.
 - I like the look of the [Seed Odyssey SBC][SeedO].  I'm not sure yet
@@ -129,9 +129,9 @@ cool products that I've been eying:
   Raspberry Pi I already have.
 - So... at the core of a [SmartNIC] is a [DPU].  There's now a company
   making a [stand-alone DPU][FungiDPU] which, if I read their marketing
-  material correctly, could be added to the computer mainboard along with
-  the CPU, FPU, etc.  In any case, I'm interested to see what can be done
-  with this chip.
+  material correctly, could be added to a computer mainboard for a closer
+  connection with the CPU, memory, etc.  In any case, I'm interested to
+  see what can be done with this chip.
 
 
 
@@ -198,5 +198,5 @@ Android dev?
 [LinuxRAID]: https://raid.wiki.kernel.org/index.php/Linux_Raid
 [SambaTeam]: https://www.samba.org/samba/team/
 [SMB1JoseB]: https://docs.microsoft.com/en-us/archive/blogs/josebda/the-deprecation-of-smb1-you-should-be-planning-to-get-rid-of-this-old-smb-dialect
-[BranchCache] https://docs.microsoft.com/en-us/windows-server/networking/branchcache/branchcache
+[BranchCache]: https://docs.microsoft.com/en-us/windows-server/networking/branchcache/branchcache
 [WikiPediaSMB]: https://en.wikipedia.org/wiki/Server_Message_Block
