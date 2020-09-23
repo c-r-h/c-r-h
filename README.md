@@ -12,10 +12,9 @@ two is 90% easy and 10% annoying corner cases that trip me up.
 
 ### 🛠️ SMB/CIFS, SMB2/SMB3
 
-<a href="#"><img align="left" height="360" src="Files/Pointing.png"/></a>
-**[Samba Team][SambaTeam] Member**<br/>
 I write code and share knowledge about Windows core network protocols,
-particularly Server Message Block ([SMB][WikiPediaSMB]).
+particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
+<a href="#"><img align="left" height="360" src="Files/Pointing.png"/></a>
   - [Implementing CIFS][ImpCIFS]<br/>
     Long ago, I wrote a book about CIFS (aka SMB1).  Despite Microsoft
     having [deprecated SMB1][SMB1JoseB], the book is still relevant today
@@ -180,7 +179,7 @@ do a bit more learning.
 
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-22 20:31:48 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-22 20:42:32 -0500; crh$</sub>
 
 
 <!-- Reference Links -->
