@@ -125,7 +125,7 @@ That said, there are some cool products that I've been eying:
   The [Kobol Helios64](https://kobol.io/) would be a great little platform
   for testing out some of my SMB3 Offload ideas.  It'd also work as a (yet
   another) home storage system.
-- I like the look of the [Seed Odyssey SBC][SeedO].  I'm not sure yet
+- I like the look of the [Seeed Odyssey SBC][SeeedO].  I'm not sure yet
   exactly how I would use it, and how it would be an improvement over the
   Raspberry Pi I already have.<br/>
   <a href="#"><img height="24" src="Files/Hardware02.png"/></a>
@@ -187,8 +187,8 @@ do a bit more learning.
 [SDXI]: https://www.snia.org/sdxi
 [tinc]: https://www.tinc-vpn.org/
 [WPTS]: https://github.com/microsoft/WindowsProtocolTestSuites
-[SeedO]: https://www.seeedstudio.com/ODYSSEY-X86J4105864-p-4447.html
 [MS-SMB]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/f210069c-7086-4dc2-885e-861d837df688
+[SeeedO]: https://www.seeedstudio.com/ODYSSEY-X86J4105864-p-4447.html
 [ImpCIFS]: http://ubiqx.org/cifs
 [MS-CIFS]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cifs/d416ff7c-c536-406e-a951-4f04b2fd1d2b
 [OpenBSD]: https://www.openbsd.org/index.html
