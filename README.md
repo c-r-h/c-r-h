@@ -160,7 +160,7 @@ do a bit more learning.
 
 - ☕ I enjoy [a decent cup o'tea](http://ubiqx.org/cifs/Appendix-A.html).
 - 🤺 For much of my life I was an active fencer. (Foil:C, Épée:D)
-- 🚴 These days I prefer to ride a bicycle.
+- 🚴 These days I prefer to [ride a bicycle][Musette].
 - [<img height="20" src="Files/LinkedIn.Logo.png">][LinkedIn] You can find
   me on [LinkedIn].
 - [<img height="20" src="Files/Gitlab.Logo.png">][GitLabCRH] You can find
@@ -178,7 +178,7 @@ do a bit more learning.
 </p>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-23 09:54:47 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-23 13:46:30 -0500; crh$</sub>
 
 
 <!-- Reference Links -->
@@ -192,6 +192,7 @@ do a bit more learning.
 [SeeedO]: https://www.seeedstudio.com/ODYSSEY-X86J4105864-p-4447.html
 [ImpCIFS]: http://ubiqx.org/cifs
 [MS-CIFS]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cifs/d416ff7c-c536-406e-a951-4f04b2fd1d2b
+[Musette]: http://mplsmusette.squarespace.com/blog/2020/8/19/guest-post-my-thanks-to-the-cheerleaders
 [OpenBSD]: https://www.openbsd.org/index.html
 [PFilter]: https://www.openbsd.org/faq/pf/
 [WikiRON]: https://en.wikipedia.org/wiki/Overlay_network#Resilience
