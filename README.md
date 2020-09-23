@@ -152,7 +152,7 @@ do a bit more learning.
   Protocol Test Suites ([WPTS]) can be run from inside a Docker Linux image,
   so I guess it's a good time to get practical experience.
 - Kubernetes, Ansible, Terraform... yeah, I need to fly through the clouds
-  more.
+  some more.
 <br clear="both"/>
 
 ### 🤯 More Yet
@@ -160,9 +160,9 @@ do a bit more learning.
 - ☕ I enjoy [a decent cup o'tea](http://ubiqx.org/cifs/Appendix-A.html).
 - 🤺 I used to be an active fencer. (Foil:C, Épée:D)
 - 🚴 These days I prefer to ride a bicycle.
-- <a href="https://www.linkedin.com/in/chrishertel/"><img height="24"
+- <a href="https://www.linkedin.com/in/chrishertel/"><img height="22"
      src="Files/LinkedIn.Logo.png"></a> You can find me on LinkedIn.
-- <a href="https://www.gitlab.com/crh/"><img height="24"
+- <a href="https://www.gitlab.com/crh/"><img height="22"
      src="Files/Gitlab.Logo.png"></a> You can find more stuff on GitLab.
 
 <br clear="both"/><br/>
@@ -176,10 +176,9 @@ do a bit more learning.
     align="left"
     src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
 </p>
-
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-22 20:42:32 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-22 20:45:02 -0500; crh$</sub>
 
 
 <!-- Reference Links -->
