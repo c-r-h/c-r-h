@@ -119,10 +119,10 @@ My desktop system is twelve years old.  My laptop is ten years old.  My
 Chromebook is only six months old, but that's because the screen shattered
 on the original one.  I'm not really into hardware.  I'm into making
 software work well even on substandard hardware.
-<a href="#"><img align="right" height="130" src="Files/Hardware01.png"/></a>
 That said, there are some cool products that I've been eying:
 
-- The [Kobol Helios64](https://kobol.io/) would be a great little platform
+- <a href="#"><img align="right" height="160" src="Files/Hardware01.png"/></a>
+  The [Kobol Helios64](https://kobol.io/) would be a great little platform
   for testing out some of my SMB3 Offload ideas.  It'd also work as a (yet
   another) home storage system.
 - I like the look of the [Seed Odyssey SBC][SeedO].  I'm not sure yet
@@ -160,10 +160,10 @@ do a bit more learning.
 - ☕ I enjoy [a decent cup o'tea](http://ubiqx.org/cifs/Appendix-A.html).
 - 🤺 For much of my life I was an active fencer. (Foil:C, Épée:D)
 - 🚴 These days I prefer to ride a bicycle.
-- <a href="https://www.linkedin.com/in/chrishertel/"><img height="22"
-     src="Files/LinkedIn.Logo.png"></a> You can find me on LinkedIn.
-- <a href="https://www.gitlab.com/crh/"><img height="22"
-     src="Files/Gitlab.Logo.png"></a> You can find more stuff on GitLab.
+- [<img height="20" src="Files/LinkedIn.Logo.png">][LinkedIn] You can find
+  me on [LinkedIn].
+- [<img height="20" src="Files/Gitlab.Logo.png">][GitLabCRH] You can find
+  more stuff on [GitLab][GitLabCRH].
 
 <p style="float:left;">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img
@@ -197,6 +197,7 @@ do a bit more learning.
 [WinSMB3]: https://docs.microsoft.com/en-us/windows-server/storage/file-server/file-server-smb-overview
 [Zambezi]: https://gitlab.com/ubiqx/zambezi
 [Carnaval]: https://github.com/ubiqx-org/Carnaval
+[LinkedIn]: https://www.linkedin.com/in/chrishertel/
 [MS-PCCRC]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-pccrc/51cb03f8-c0dd-4565-9882-aeb5ab0fa07e
 [OpnSense]: https://opnsense.org/
 [ProVault]: https://protectli.com/vault-4-port/
