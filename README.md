@@ -136,7 +136,7 @@ That said, there are some cool products that I've been eying:
   see what can be done with this chip.
 
 
-### Further Study
+### 📖 Further Study
 
 Android dev?
 
@@ -146,17 +146,20 @@ Android dev?
 ☕
 
 <br clear="both"/><br/>
-<a href="#"><img align="right" height="200" src="Files/Confused-t.png"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img
+<p style="float:left;">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img
   align="left"
   src="https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite&title_color=6070c0">
   </a>
-<a href="https://www.strava.com/athletes/christopher_hertel"><img
+  <a href="https://www.strava.com/athletes/christopher_hertel"><img
    align="left"
    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
+  <a href="#"><img align="right" height="200" src="Files/Confused-t.png"/></a>
+</p>
+
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-22 19:15:28 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-22 19:39:09 -0500; crh$</sub>
 
 <p style="clear:left;">
   <a href="https://www.linkedin.com/in/chrishertel/"><img height="32"
