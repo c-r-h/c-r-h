@@ -29,10 +29,10 @@ two is 90% easy and 10% annoying corner cases that trip me up.
     These days I'm working on SMB2/3 integration with distributed file
     systems, and on SMB3 Offload.  I think it would be cool if the low-level
     message handling could be moved to a SmartNIC or similar device.<br/>
-    ◦ Compression and Encryption<br/>
-    ◦ Multichannel and Multi-protocol<br/>
-    ◦ Packet marshalling/unmarshalling<br/>
-    ◦ Direct I/O<br/>
+    ‣ Compression and Encryption<br/>
+    ‣ Multichannel and Multi-protocol<br/>
+    ‣ Packet marshalling/unmarshalling<br/>
+    ‣ Direct I/O<br/>
   - I started fiddling with [PeerDist][MS-PCCRC] a while back, but have not
     spent time on it in...well...years.  I plan to get back to it.
     Eventually.
@@ -178,7 +178,7 @@ do a bit more learning.
 </p>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-23 09:44:19 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-23 09:54:47 -0500; crh$</sub>
 
 
 <!-- Reference Links -->
