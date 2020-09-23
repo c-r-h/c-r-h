@@ -12,10 +12,10 @@ two is 90% easy and 10% annoying corner cases that trip me up.
 
 ### 🛠️ SMB/CIFS, SMB2/SMB3
 
-- **[Samba Team][SambaTeam] Member**<br/>
-  I write code and share knowledge about Windows core network protocols,
-  particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
-  <a href="#"><img align="left" height="360" src="Files/Pointing.png"/></a>
+**[Samba Team][SambaTeam] Member**<br/>
+I write code and share knowledge about Windows core network protocols,
+particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
+<a href="#"><img align="left" height="360" src="Files/Pointing.png"/></a>
   - [Implementing CIFS][ImpCIFS]<br/>
     Long ago, I wrote a book about CIFS (aka SMB1).  Despite Microsoft
     having [deprecated SMB1][SMB1JoseB], the book is still relevant today
