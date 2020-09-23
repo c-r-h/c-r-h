@@ -147,12 +147,10 @@ Android dev?
 
 <br clear="both"/><br/>
 <a href="#"><img align="right" height="200" src="Files/Confused-t.png"/></a>
-<p style="clear:right;">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img
+<a href="https://github.com/anuraghazra/github-readme-stats"><img
   align="left"
   src="https://github-readme-stats.vercel.app/api?username=c-r-h&show_icons=true&theme=graywhite&title_color=6070c0">
   </a>
-</p>
 <a href="https://www.strava.com/athletes/christopher_hertel"><img
    align="left"
    src="https://veloviewer.com/SigImage/83887d/2/4/I/n/bcdfijojoj.png"></a>
