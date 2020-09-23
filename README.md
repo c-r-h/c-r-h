@@ -138,12 +138,30 @@ That said, there are some cool products that I've been eying:
 
 ### 📖 Further Study
 
-Android dev?
+There isn't much time, given everything listed above, but it would be fun to
+do a bit more learning.
+- **Android Development**<br/>
+  You know... apps and such.<br/>
+  A long time ago I co-founded a project called jCIFS that eventually grew
+  up to be an important tool for providing SMB1 access from Android
+  devices.  We never updated it for SMB2/3, but if someone out there is
+  interested I'm happy to provide some know-how.
+- **A bit more about Docker**<br/>
+  I've done more than dabble, but I am really just an end-user.  The Windows
+  Protocol Test Suites ([WPTS]) can be run from inside a Docker Linux image,
+  so I guess it's a good time to get practical experience.
+- Kubernetes, Ansible, Terraform... yeah, I need to fly through the clouds
+  more.
 
+### 🤯 More Yet
 
-🤺
-🚴
-☕
+- ☕ I enjoy a good cup o'[tea][http://ubiqx.org/cifs/Appendix-A.html].
+- 🤺 I used to be an active fencer. \[Foil:C, Épée:D]
+- 🚴 These days I prefer to ride a bicycle.
+- <a href="https://www.linkedin.com/in/chrishertel/"><img height="24"
+     src="Files/LinkedIn.Logo.png"></a> You can find me on LinkedIn.
+- <a href="https://www.gitlab.com/crh/"><img height="24"
+     src="Files/Gitlab.Logo.png"></a> You can find more stuff on GitLab.
 
 <br clear="both"/><br/>
 <p style="float:left;">
@@ -159,15 +177,8 @@ Android dev?
 
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-22 19:39:09 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-22 20:31:48 -0500; crh$</sub>
 
-<p style="clear:left;">
-  <a href="https://www.linkedin.com/in/chrishertel/"><img height="32"
-     src="Files/LinkedIn.Logo.png"></a>
-  <a href="https://www.gitlab.com/crh/"><img height="32"
-     src="Files/Gitlab.Logo.png"></a>
-  <br clear="left"/>
-</p>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
@@ -175,6 +186,7 @@ Android dev?
 [BITS]: https://docs.microsoft.com/en-us/windows/win32/bits/background-intelligent-transfer-service-portal
 [SDXI]: https://www.snia.org/sdxi
 [tinc]: https://www.tinc-vpn.org/
+[WPTS]: https://github.com/microsoft/WindowsProtocolTestSuites
 [SeedO]: https://www.seeedstudio.com/ODYSSEY-X86J4105864-p-4447.html
 [MS-SMB]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/f210069c-7086-4dc2-885e-861d837df688
 [ImpCIFS]: http://ubiqx.org/cifs
