@@ -165,7 +165,6 @@ do a bit more learning.
 - <a href="https://www.gitlab.com/crh/"><img height="22"
      src="Files/Gitlab.Logo.png"></a> You can find more stuff on GitLab.
 
-<br clear="both"/><br/>
 <p style="float:left;">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img
     align="left"
@@ -178,7 +177,7 @@ do a bit more learning.
 </p>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-22 20:45:02 -0500; crh$</sub>
+<sub>$Id: README.md; 2020-09-22 20:46:29 -0500; crh$</sub>
 
 
 <!-- Reference Links -->
