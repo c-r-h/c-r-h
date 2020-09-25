@@ -178,8 +178,7 @@ do a bit more learning.
 </p>
 <br clear="both"/>
 <hr>
-<sub>$Id: README.md; 2020-09-23 13:46:30 -0500; crh$</sub>
-
+<sup>$Id: README.md; 2020-09-25 16:27:47 -0500; crh$</sup>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
