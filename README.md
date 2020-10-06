@@ -154,7 +154,7 @@ So I am looking for an open option.  Here's what I've found so far:
   and updated, given a little time and attention.
 - **[Open Bicycle Computer][OpenBike]**<br/>
   Another project that has seemingly dried up.  Worth reviewing, though.
-  <a href="#"><img align="right" height="120" src="Files/Partners-2.png"/></a>
+  <a href="#"><img align="right" height="160" src="Files/Partners-2.png"/></a>
 - **[Open Source Bike GPS][OpenGPS]**<br/>
   A much more active Open Bike Computer project.  There are links in the
   ReadMe to hardware information.  This one looks quite promising.
