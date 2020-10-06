@@ -137,6 +137,33 @@ That said, there are some cool products that I've been eying:
   see what can be done with this chip.
 <br clear="both"/>
 
+### 🏋 A Challenge
+
+<a href="#"><img align="left" src="Files/Locust.png"/></a>
+I have been kicked hard in the bike shorts by proprietary cycling computers.
+The ones I have tried are closed-source and have no published API.  When
+things go wrong, you have no recourse.  This is the Achilles' heel of these
+expensive devices.  All of the problems I've had with them, including data
+loss and other frustrations, are due to their closed, proprietary nature.
+
+So I am looking for an open option.  Here's what I've found so far:
+
+- **[Open Cycling Computer][OpenCycle]**<br/>
+  The project was quite far along, but appears to have fallen stagnant.
+  Dang shame, given how much work went into it.  Perhaps it can be revived
+  and updated, given a little time and attention.
+- **[Open Bicycle Computer][OpenBike]**<br/>
+  Another project that has seemingly dried up.  Worth reviewing, though.
+- **[Open Source Bike GPS][OpenGPS]**<br/>
+  A much more active Open Bike Computer project.  There are links in the
+  ReadMe to hardware information.  This one looks quite promising.
+- **[Pyloton]**<br/>
+  ...is much less ambitious than the other projects on the list, but I could
+  learn a thing or two from the parts and pieces list alone.
+- **[Golden Cheetah][GoldCheetah]**<br/>
+  Ride file analytics.  This would pair nicely with an open GPS device.
+<br clear="both"/>
+
 ### 📖 Further Study
 
 There isn't much time, given everything listed above, but it would be fun to
@@ -178,7 +205,7 @@ do a bit more learning.
 </p>
 <br clear="both"/>
 <hr>
-<sup>$Id: README.md; 2020-09-25 16:27:47 -0500; crh$</sup>
+<sup>$Id: README.md; 2020-10-05 20:10:11 -0500; crh$</sup>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
@@ -193,20 +220,25 @@ do a bit more learning.
 [MS-CIFS]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cifs/d416ff7c-c536-406e-a951-4f04b2fd1d2b
 [Musette]: http://mplsmusette.squarespace.com/blog/2020/8/19/guest-post-my-thanks-to-the-cheerleaders
 [OpenBSD]: https://www.openbsd.org/index.html
+[OpenGPS]: https://github.com/vincent290587/stravaV10
 [PFilter]: https://www.openbsd.org/faq/pf/
+[Pyloton]: https://learn.adafruit.com/pyloton
 [WikiRON]: https://en.wikipedia.org/wiki/Overlay_network#Resilience
 [WinSMB3]: https://docs.microsoft.com/en-us/windows-server/storage/file-server/file-server-smb-overview
 [Zambezi]: https://gitlab.com/ubiqx/zambezi
 [Carnaval]: https://github.com/ubiqx-org/Carnaval
 [LinkedIn]: https://www.linkedin.com/in/chrishertel/
 [MS-PCCRC]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-pccrc/51cb03f8-c0dd-4565-9882-aeb5ab0fa07e
+[OpenBike]: https://hackaday.io/project/1887-open-bicycle-computer
 [OpnSense]: https://opnsense.org/
 [ProVault]: https://protectli.com/vault-4-port/
 [SmartNIC]: https://blog.mellanox.com/2018/08/defining-smartnic/
 [FungiDPU]: https://www.fungible.com/dpu-platform/
 [GitLabCRH]: https://www.gitlab.com/crh
 [LinuxRAID]: https://raid.wiki.kernel.org/index.php/Linux_Raid
+[OpenCycle]: https://opencyclingcomputer.eu/
 [SambaTeam]: https://www.samba.org/samba/team/
 [SMB1JoseB]: https://docs.microsoft.com/en-us/archive/blogs/josebda/the-deprecation-of-smb1-you-should-be-planning-to-get-rid-of-this-old-smb-dialect
 [BranchCache]: https://docs.microsoft.com/en-us/windows-server/networking/branchcache/branchcache
+[GoldCheetah]: https://www.goldencheetah.org/
 [WikiPediaSMB]: https://en.wikipedia.org/wiki/Server_Message_Block
