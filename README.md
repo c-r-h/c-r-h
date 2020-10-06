@@ -142,7 +142,7 @@ That said, there are some cool products that I've been eying:
 <a href="#"><img align="left" src="Files/Locust.png"/></a>
 I have been kicked hard in the bike shorts by proprietary cycling computers.
 The ones I have tried are closed-source and have no published API.  When
-things go wrong, you have no recourse.  This is the Achilles' heel of these
+things go wrong, there is no recourse.  This is the Achilles' heel of these
 expensive devices.  All of the problems I've had with them, including data
 loss and other frustrations, are due to their closed, proprietary nature.
 
@@ -154,6 +154,7 @@ So I am looking for an open option.  Here's what I've found so far:
   and updated, given a little time and attention.
 - **[Open Bicycle Computer][OpenBike]**<br/>
   Another project that has seemingly dried up.  Worth reviewing, though.
+  <a href="#"><img align="right" height="120" src="Files/Partners-2.png"/></a>
 - **[Open Source Bike GPS][OpenGPS]**<br/>
   A much more active Open Bike Computer project.  There are links in the
   ReadMe to hardware information.  This one looks quite promising.
@@ -205,7 +206,7 @@ do a bit more learning.
 </p>
 <br clear="both"/>
 <hr>
-<sup>$Id: README.md; 2020-10-05 20:10:11 -0500; crh$</sup>
+<sup>$Id: README.md; 2020-10-05 20:31:28 -0500; crh$</sup>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
