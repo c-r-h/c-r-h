@@ -116,25 +116,31 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
 
 ### 🔩 Cool Hardware
 
+<a href="#"><img height="24" align="left" src="Files/Hardware02.png"/></a>
 My desktop system is twelve years old.  My laptop is ten years old.  My
 Chromebook is only six months old, but that's because the screen shattered
-on the original one.  I'm not really into hardware.  I'm into making
-software work well even on substandard hardware.
+on my first Chromebook so I bought a new one.  I'm not really into hardware.
+I'm into making software work well even on substandard hardware.
+
 That said, there are some cool products that I've been eying:
 
 - <a href="#"><img align="right" height="160" src="Files/Hardware01.png"/></a>
   The [Kobol Helios64](https://kobol.io/) would be a great little platform
-  for testing out some of my SMB3 Offload ideas.  It'd also work as a (yet
-  another) home storage system.
+  for testing out some of my SMB3 Offload ideas.  It'd also work as yet
+  another home storage system.
 - I like the look of the [Seeed Odyssey SBC][SeeedO].  I'm not sure yet
   exactly how I would use it, and how it would be an improvement over the
-  Raspberry Pi I already have.<br/>
-  <a href="#"><img height="24" src="Files/Hardware02.png"/></a>
-- So... at the core of a [SmartNIC] is a [DPU].  There's now a company
-  making a [stand-alone DPU][FungiDPU] which, if I read their marketing
-  material correctly, could be added to a computer mainboard for a closer
-  connection with the CPU, memory, etc.  In any case, I'm interested to
-  see what can be done with this chip.
+  Raspberry Pi I already have.
+- So... at the core of many a [SmartNIC] is a [DPU]; Data Processing Unit.
+  The DPU is quickly becoming a focus of attention in the industry, and I
+  expect to see them invade motherboard territory in the not-too-distant
+  future.  This is the _perfect_ environment for an SMB3 Offload engine (and
+  NFS offload as well).
+  + Fungible has a [stand-alone DPU][FungiDPU] which, if I read their
+    marketing material correctly, would be added to a computer mainboard for
+    a closer connection with the CPU, memory, etc.
+  + More recently, NVIDA [announced their own DPU][NVidiaDPU] aimed at
+    networking, storage, and security.
 <br clear="both"/>
 
 ### 🏋 A Challenge
@@ -206,7 +212,7 @@ do a bit more learning.
 </p>
 <br clear="both"/>
 <hr>
-<sup>$Id: README.md; 2020-10-05 20:31:28 -0500; crh$</sup>
+<sup>$Id: README.md; 2020-10-11 12:34:41 -0500; crh$</sup>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
@@ -237,6 +243,7 @@ do a bit more learning.
 [FungiDPU]: https://www.fungible.com/dpu-platform/
 [GitLabCRH]: https://www.gitlab.com/crh
 [LinuxRAID]: https://raid.wiki.kernel.org/index.php/Linux_Raid
+[NVidiaDPU]: https://nvidianews.nvidia.com/news/nvidia-introduces-new-family-of-bluefield-dpus-to-bring-breakthrough-networking-storage-and-security-performance-to-every-data-center
 [OpenCycle]: https://opencyclingcomputer.eu/
 [SambaTeam]: https://www.samba.org/samba/team/
 [SMB1JoseB]: https://docs.microsoft.com/en-us/archive/blogs/josebda/the-deprecation-of-smb1-you-should-be-planning-to-get-rid-of-this-old-smb-dialect
