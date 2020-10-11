@@ -10,7 +10,7 @@ I started using GitLab a few years ago.  It's not as flashy as GitHub, but I
 learned a few tricks and got used to it.  Moving back and forth between the
 two is 90% easy and 10% annoying corner cases that trip me up.
 
-### 🛠️ SMB/CIFS, SMB2/SMB3
+### 🛠️ SMB/CIFS, SMB2, and SMB3
 
 **[Samba Team][SambaTeam] Member**<br/>
 I write code and share knowledge about Windows core network protocols,
@@ -24,11 +24,14 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
     A bit less long ago, I put together a team to write the CIFS
     specifications for Microsoft.  We wrote [[MS-CIFS]] from scratch and
     overhauled [[MS-SMB]].  The latter volume represents the additions and
-    changes made to SMB1 starting with Windows 2000.<br/>
+    changes made to SMB1 starting with Windows 2000.  Once again, SMB1 has
+    been [rightly deprecated][SMB1JoseB] by Microsoft, but it's still in use
+    in a lot of environments.
   - [SMB3 Offload Engine][Zambezi]<br/>
     These days I'm working on SMB2/3 integration with distributed file
-    systems, and on SMB3 Offload.  I think it would be cool if the low-level
-    message handling could be moved to a SmartNIC or similar device.<br/>
+    systems, and on an SMB3 Offload Engine.  I think it would be cool if
+    low-level encryption, compression, and basic message handling could be
+    moved to a SmartNIC or similar device.<br/>
     ‣ Compression and Encryption<br/>
     ‣ Multichannel and Multi-protocol<br/>
     ‣ Packet marshalling/unmarshalling<br/>
@@ -56,7 +59,7 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
   * I want to collect data at the firewalls, and coordinate with
     (anonymized) data from other firewalls to look for patterns.  You know,
     Big Data/AI stuff.
-- **Reverse Proxy Web**<br/>
+- **Reverse Proxy Webserver**<br/>
   Slowly, but committedly, I'm spending free cycles building up a home web
   server with the goal of running a reverse caching proxy elsewhere on the
   'net and connecting the two via VPN.  I'm sharing this effort with a
@@ -178,16 +181,15 @@ do a bit more learning.
 <a href="#"><img align="left" src="Files/SleepyStudent.png"/></a>
 - **Android Development**<br/>
   You know... apps and such.<br/>
-  A long time ago I co-founded a project called jCIFS that eventually grew
-  up to be an important tool for providing SMB1 access from Android
-  devices.  We never updated it for SMB2/3, but if someone out there is
-  interested I'm happy to provide some know-how.
+  A long time ago I co-founded a project called [jCIFS] that eventually grew
+  up to be an important tool for providing SMB1 access from Android devices
+  (and lots of other platforms).  We never updated it for SMB2/3. If someone
+  out there is interested I'm happy to provide some know-how.
 - **A bit more about Docker**<br/>
   I've done more than dabble, but I am really just an end-user.  The Windows
   Protocol Test Suites ([WPTS]) can be run from inside a Docker Linux image,
   so I guess it's a good time to get practical experience.
-- Kubernetes, Ansible, Terraform... yeah, I need to fly through the clouds
-  some more.
+- Kubernetes, Ansible, Terraform... yeah, I need to fly in the cloud some more.
 <br clear="both"/>
 
 ### 🤯 More Yet
@@ -212,7 +214,7 @@ do a bit more learning.
 </p>
 <br clear="both"/>
 <hr>
-<sup>$Id: README.md; 2020-10-11 12:34:41 -0500; crh$</sup>
+<sup>$Id: README.md; 2020-10-11 12:48:24 -0500; crh$</sup>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
@@ -221,6 +223,7 @@ do a bit more learning.
 [SDXI]: https://www.snia.org/sdxi
 [tinc]: https://www.tinc-vpn.org/
 [WPTS]: https://github.com/microsoft/WindowsProtocolTestSuites
+[jCIFS]: https://www.jcifs.org/
 [MS-SMB]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/f210069c-7086-4dc2-885e-861d837df688
 [SeeedO]: https://www.seeedstudio.com/ODYSSEY-X86J4105864-p-4447.html
 [ImpCIFS]: http://ubiqx.org/cifs
