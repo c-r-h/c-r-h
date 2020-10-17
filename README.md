@@ -4,7 +4,7 @@
 If you're looking for code, there's more over on [<img height="20"
 src="Files/Gitlab.Logo.png"> GitLab][GitLabCRH].  I am currently focused on
 [<img height="20" src="Files/Zambezi.ProjectLogo.png"> Zambezi][Zambezi],
-which is an [SMB3][WinSMB3] Offload Engine.
+which is an [SMB3][WinSMB3] Offload Engine for SmartNICs.
 
 I started using GitLab a few years ago.  It's not as flashy as GitHub, but I
 learned a few tricks and got used to it.  Moving back and forth between the
@@ -30,7 +30,7 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
     [rightly deprecated][SMB1JoseB] by Microsoft, but it's still in use
     in a lot of environments so it's really important to have a solid
     reference.
-  - [SMB3 Offload Engine][Zambezi]<br/>
+  - [SMB3 Offload Engine][Zambezi] for SmartNICs and DPUs<br/>
     These days I'm working on SMB2/3 integration with distributed file
     systems, and on an SMB3 Offload Engine.  I think it would be cool if
     low-level encryption, compression, and basic message handling could be
@@ -217,7 +217,7 @@ do a bit more learning.
 </p>
 <br clear="both"/>
 <hr>
-<sup>$Id: README.md; 2020-10-17 10:37:30 -0500; crh$</sup>
+<sup>$Id: README.md; 2020-10-17 10:40:37 -0500; crh$</sup>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
