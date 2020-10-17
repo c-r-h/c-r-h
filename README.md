@@ -2,13 +2,15 @@
 ## ☃️ The Winter Coder
 
 If you're looking for code, there's more over on [<img height="20"
-src="Files/Gitlab.Logo.png"> GitLab][GitLabCRH].  I am currently focused on
+src="Files/GitLab.Logo.png"> GitLab][GitLabCRH].  I am currently focused on
 [<img height="20" src="Files/Zambezi.ProjectLogo.png"> Zambezi][Zambezi],
 which is an [SMB3][WinSMB3] Offload Engine for SmartNICs.
 
-I started using GitLab a few years ago.  It's not as flashy as GitHub, but I
-learned a few tricks and got used to it.  Moving back and forth between the
-two is 90% easy and 10% annoying corner cases that trip me up.
+I started using <a href="#"><img height="20"
+src="Files/GitLab.Logo.png"></a>GitLab a few years ago.  It's not as flashy
+as <a href="#"><img height="20" src="Files/GitHub.Logo.png"></a>GitHub, but
+I learned a few tricks and got used to it.  Moving back and forth between
+the two is 90% easy and 10% annoying corner cases that trip me up.
 
 ### 🛠️ SMB/CIFS, SMB2, and SMB3
 
@@ -202,7 +204,7 @@ do a bit more learning.
 - 🚴 These days I prefer to [ride a bicycle][Musette].
 - [<img height="20" src="Files/LinkedIn.Logo.png">][LinkedIn] You can find
   me on [LinkedIn].
-- [<img height="20" src="Files/Gitlab.Logo.png">][GitLabCRH] You can find
+- [<img height="20" src="Files/GitLab.Logo.png">][GitLabCRH] You can find
   more stuff on [GitLab][GitLabCRH].
 
 <p style="float:left;">
@@ -217,7 +219,7 @@ do a bit more learning.
 </p>
 <br clear="both"/>
 <hr>
-<sup>$Id: README.md; 2020-10-17 10:40:37 -0500; crh$</sup>
+<sup>$Id: README.md; 2020-10-17 10:50:23 -0500; crh$</sup>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
