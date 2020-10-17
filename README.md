@@ -17,16 +17,19 @@ I write code and share knowledge about Windows core network protocols,
 particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
 <a href="#"><img align="left" height="360" src="Files/Pointing.png"/></a>
   - [Implementing CIFS][ImpCIFS]<br/>
-    Long ago, I wrote a book about CIFS (aka SMB1).  Despite Microsoft
-    having [deprecated SMB1][SMB1JoseB], the book is still relevant today
-    and I, for one, still use it as a reference from time to time.
+    Long ago, I wrote a book about CIFS (aka SMB1).  Since then,
+    Microsoft has [deprecated SMB1][SMB1JoseB], but the book is still
+    relevant and I, for one, still use it as a reference from time to
+    time.
   - [[MS-CIFS]] and [[MS-SMB]]<br/>
-    A bit less long ago, I put together a team to write the CIFS
-    specifications for Microsoft.  We wrote [[MS-CIFS]] from scratch and
-    overhauled [[MS-SMB]].  The latter volume represents the additions and
-    changes made to SMB1 starting with Windows 2000.  Once again, SMB1 has
-    been [rightly deprecated][SMB1JoseB] by Microsoft, but it's still in use
-    in a lot of environments.
+    A bit less long ago, based on the strength of my CIFS book, I was
+    asked to put together a team to write the SMB1 specifications for
+    Microsoft.  We wrote [[MS-CIFS]] from scratch and overhauled
+    [[MS-SMB]].  The latter volume represents the additions and changes
+    made to SMB1 starting with Windows 2000.  Once again, SMB1 has been
+    [rightly deprecated][SMB1JoseB] by Microsoft, but it's still in use
+    in a lot of environments so it's really important to have a solid
+    reference.
   - [SMB3 Offload Engine][Zambezi]<br/>
     These days I'm working on SMB2/3 integration with distributed file
     systems, and on an SMB3 Offload Engine.  I think it would be cool if
@@ -35,7 +38,7 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
     ‣ Compression and Encryption<br/>
     ‣ Multichannel and Multi-protocol<br/>
     ‣ Packet marshalling/unmarshalling<br/>
-    ‣ Direct I/O<br/>
+    ‣ Proxy and Software-Defined Servers<br/>
   - I started fiddling with [PeerDist][MS-PCCRC] a while back, but have not
     spent time on it in...well...years.  I plan to get back to it.
     Eventually.
@@ -214,7 +217,7 @@ do a bit more learning.
 </p>
 <br clear="both"/>
 <hr>
-<sup>$Id: README.md; 2020-10-11 12:48:24 -0500; crh$</sup>
+<sup>$Id: README.md; 2020-10-17 10:37:30 -0500; crh$</sup>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
