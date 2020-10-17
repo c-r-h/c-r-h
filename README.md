@@ -4,7 +4,7 @@
 If you're looking for code, there's more over on [<img height="20"
 src="Files/Gitlab.Logo.png"> GitLab][GitLabCRH].  I am currently focused on
 [<img height="20" src="Files/Zambezi.ProjectLogo.png"> Zambezi][Zambezi],
-which is an [SMB3][WinSMB3] Offload Engine.
+which is an [SMB3][WinSMB3] Offload Engine for SmartNICs.
 
 I started using GitLab a few years ago.  It's not as flashy as GitHub, but I
 learned a few tricks and got used to it.  Moving back and forth between the
@@ -27,7 +27,7 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
     changes made to SMB1 starting with Windows 2000.  Once again, SMB1 has
     been [rightly deprecated][SMB1JoseB] by Microsoft, but it's still in use
     in a lot of environments.
-  - [SMB3 Offload Engine][Zambezi]<br/>
+  - [SMB3 Offload Engine][Zambezi] for SmartNICs and DPUs<br/>
     These days I'm working on SMB2/3 integration with distributed file
     systems, and on an SMB3 Offload Engine.  I think it would be cool if
     low-level encryption, compression, and basic message handling could be
