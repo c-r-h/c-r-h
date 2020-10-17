@@ -6,11 +6,11 @@ src="Files/GitLab.Logo.png"> GitLab][GitLabCRH].  I am currently focused on
 [<img height="20" src="Files/Zambezi.ProjectLogo.png"> Zambezi][Zambezi],
 which is an [SMB3][WinSMB3] Offload Engine for SmartNICs.
 
-I started using <a href="#"><img height="20"
-src="Files/GitLab.Logo.png"></a>GitLab a few years ago.  It's not as flashy
-as <a href="#"><img height="20" src="Files/GitHub.Logo.png"></a>GitHub, but
-I learned a few tricks and got used to it.  Moving back and forth between
-the two is 90% easy and 10% annoying corner cases that trip me up.
+I started using [<img height="20" src="Files/GitLab.Logo.png">
+GitLab][GitLabCRH] a few years ago.  It's not as flashy as <a href="#"><img
+height="20" src="Files/GitHub.Logo.png">GitHub</a>, but I learned a few
+tricks and got used to it.  Moving back and forth between the two is 90%
+easy and 10% annoying corner cases that trip me up.
 
 ### 🛠️ SMB/CIFS, SMB2, and SMB3
 
@@ -219,7 +219,7 @@ do a bit more learning.
 </p>
 <br clear="both"/>
 <hr>
-<sup>$Id: README.md; 2020-10-17 10:50:23 -0500; crh$</sup>
+<sup>$Id: README.md; 2020-10-17 10:55:08 -0500; crh$</sup>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
