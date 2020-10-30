@@ -199,13 +199,13 @@ do a bit more learning.
 
 ### 🤯 More Yet
 
-- ☕ I enjoy [a decent cup o'tea](http://ubiqx.org/cifs/Appendix-A.html).
-- 🤺 For much of my life I was an active fencer. (Foil:C, Épée:D)
-- 🚴 These days I prefer to [ride a bicycle][Musette].
-- [<img height="20" src="Files/LinkedIn.Logo.png">][LinkedIn] You can find
-  me on [LinkedIn].
-- [<img height="20" src="Files/GitLab.Logo.png">][GitLabCRH] You can find
-  more stuff on [GitLab][GitLabCRH].
+☕ I enjoy [a decent cup o'tea](http://ubiqx.org/cifs/Appendix-A.html).<br/>
+🤺 For much of my life I was an active fencer. (Foil:C, Épée:D)<br/>
+🚴 These days I prefer to [ride a bicycle][Musette].<br/>
+[<img height="20" src="Files/LinkedIn.Logo.png">][LinkedIn] You can find
+me on [LinkedIn].<br/>
+[<img height="20" src="Files/GitLab.Logo.png">][GitLabCRH] You can find
+more stuff on [GitLab][GitLabCRH].
 
 <p style="float:left;">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img
@@ -219,7 +219,7 @@ do a bit more learning.
 </p>
 <br clear="both"/>
 <hr>
-<sup>$Id: README.md; 2020-10-17 10:55:08 -0500; crh$</sup>
+<sup>$Id: README.md; 2020-10-30 16:57:06 -0500; crh$</sup>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
