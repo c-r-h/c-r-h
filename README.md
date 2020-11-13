@@ -52,11 +52,12 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
 - **The Home Network**<br/>
   The network was once split between business and home.  There were two
   Soekris routers (remember those?) running [OpenBSD's][OpenBSD]
-  [Packet Filter][PFilter] (pf), with routing in between.  It was a great
-  setup, and I ran things that way for years.  More recently, I've combined
-  down to a single network.  I run [OpnSense] on a [Protectli Vault][ProVault].
-  OpnSense is easier to manage day-to day, but I miss being able to fine tune
-  my firewall to meet my own picky specifications and preferences.
+  [Packet Filter][PFilter] ([`pf(4)`][PFmanpage]), with routing in between.
+  It was a great setup, and I ran things that way for years. More recently,
+  I've combined down to a single network.  I run [OpnSense] on a
+  [Protectli Vault][ProVault].  OpnSense is easier to manage day-to day, but
+  I miss being able to fine tune my firewall to meet my own picky
+  specifications and preferences.
 - **Firewall Futures**
   * I used to have uplinks to two disreputable behemoth ISP services.  That's
     down to one, now.  Two would permit load balancing and failover, which I
@@ -219,7 +220,7 @@ more stuff on [GitLab][GitLabCRH].
 </p>
 <br clear="both"/>
 <hr>
-<sup>$Id: README.md; 2020-10-30 16:57:06 -0500; crh$</sup>
+<sup>$Id: README.md; 2020-11-12 20:11:13 -0600; crh$</sup>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
@@ -253,6 +254,7 @@ more stuff on [GitLab][GitLabCRH].
 [LinuxRAID]: https://raid.wiki.kernel.org/index.php/Linux_Raid
 [NVidiaDPU]: https://nvidianews.nvidia.com/news/nvidia-introduces-new-family-of-bluefield-dpus-to-bring-breakthrough-networking-storage-and-security-performance-to-every-data-center
 [OpenCycle]: https://opencyclingcomputer.eu/
+[PFmanpage]: https://man.openbsd.org/pf
 [SambaTeam]: https://www.samba.org/samba/team/
 [SMB1JoseB]: https://docs.microsoft.com/en-us/archive/blogs/josebda/the-deprecation-of-smb1-you-should-be-planning-to-get-rid-of-this-old-smb-dialect
 [BranchCache]: https://docs.microsoft.com/en-us/windows-server/networking/branchcache/branchcache
