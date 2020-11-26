@@ -73,9 +73,11 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
   right.  Proud to be part of a cool family.
 - **File Servers**<br/>
   I have a set of [Linux MD RAID][LinuxRAID] based Samba fileservers that I
-  run in my basement.  I use CentOS Linux Minimal and add what I need if I
-  need it, but these systems don't need much.  Home, business, and personal
-  storage and, of course, testing.
+  run in my basement.  I use CentOS7 Linux Minimal and add what I need if I
+  need it, but these systems don't need much.  I use these systems for home,
+  business, and personal data storage, and sometimes a bit of code testing.
+  The next time I set up a storage server I want to give Ubuntu Server a
+  spin.
 <br clear="both"/>
 
 ### 💡 Ideas
@@ -131,7 +133,7 @@ Chromebook is only six months old, but that's because the screen shattered
 on my first Chromebook so I bought a new one.  I'm not really into hardware.
 I'm into making software work well even on substandard hardware.
 
-That said, there are some cool products that I've been eying:
+That said, there are some cool products that I've been eyeing:
 
 - <a href="#"><img align="right" height="160" src="Files/Hardware01.png"/></a>
   The [Kobol Helios64](https://kobol.io/) would be a great little platform
@@ -220,7 +222,7 @@ more stuff on [GitLab][GitLabCRH].
 </p>
 <br clear="both"/>
 <hr>
-<sup>$Id: README.md; 2020-11-12 20:11:13 -0600; crh$</sup>
+<sup>$Id: README.md; 2020-11-26 17:23:59 -0600; crh$</sup>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
