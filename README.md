@@ -154,6 +154,27 @@ That said, there are some cool products that I've been eyeing:
     networking, storage, and security.
 <br clear="both"/>
 
+### 🧠 Cool Software
+
+There's the normal stuff I do, including shell scripting and C coding and
+such-like, and then there are the bright shiny things that catch my
+attention.  I just wish I had time to play with them.
+
+- **[Ultibo]**<br/>
+
+  ...is a modified [Free Pascal][FreePascal] compiler that targets the
+  Raspberry Pi.  It includes an extensive set of libraries, and the output
+  does not require an underlying OS.  Cool, weird, fun, and intriguing.
+  <br/>
+  Years ago, Object Oriented Pascal was my favorite programming language,
+  and I was very happy when I stumbled across the [Free Pascal][FreePascal]
+  compiler.  Unfortunately, I have had neither the time nor the driving
+  reason to get back into it.  Perhaps this is the excuse I need.
+- **[Crystal]**<br/>
+  I like object oriented programming languages, but I've been disappointed
+  by some of the more popular ones out there.  I'd like to give this one a
+  test drive.
+
 ### 🏋 A Challenge
 
 <a href="#"><img align="left" src="Files/Locust.png"/></a>
@@ -234,6 +255,8 @@ more stuff on [GitLab][GitLabCRH].
 [jCIFS]: https://www.jcifs.org/
 [MS-SMB]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-smb/f210069c-7086-4dc2-885e-861d837df688
 [SeeedO]: https://www.seeedstudio.com/ODYSSEY-X86J4105864-p-4447.html
+[Ultibo]: https://ultibo.org/
+[Crystal]: https://crystal-lang.org/
 [ImpCIFS]: http://ubiqx.org/cifs
 [MS-CIFS]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cifs/d416ff7c-c536-406e-a951-4f04b2fd1d2b
 [Musette]: http://mplsmusette.squarespace.com/blog/2020/8/19/guest-post-my-thanks-to-the-cheerleaders
@@ -259,6 +282,7 @@ more stuff on [GitLab][GitLabCRH].
 [PFmanpage]: https://man.openbsd.org/pf
 [SambaTeam]: https://www.samba.org/samba/team/
 [SMB1JoseB]: https://docs.microsoft.com/en-us/archive/blogs/josebda/the-deprecation-of-smb1-you-should-be-planning-to-get-rid-of-this-old-smb-dialect
+[FreePascal]: https://www.freepascal.org/
 [BranchCache]: https://docs.microsoft.com/en-us/windows-server/networking/branchcache/branchcache
 [GoldCheetah]: https://www.goldencheetah.org/
 [WikiPediaSMB]: https://en.wikipedia.org/wiki/Server_Message_Block
