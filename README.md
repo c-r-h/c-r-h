@@ -161,7 +161,6 @@ such-like, and then there are the bright shiny things that catch my
 attention.  I just wish I had time to play with them.
 
 - **[Ultibo]**<br/>
-
   ...is a modified [Free Pascal][FreePascal] compiler that targets the
   Raspberry Pi.  It includes an extensive set of libraries, and the output
   does not require an underlying OS.  Cool, weird, fun, and intriguing.
@@ -174,6 +173,7 @@ attention.  I just wish I had time to play with them.
   I like object oriented programming languages, but I've been disappointed
   by some of the more popular ones out there.  I'd like to give this one a
   test drive.
+<br clear="both"/>
 
 ### 🏋 A Challenge
 
