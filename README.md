@@ -73,11 +73,11 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
   right.  Proud to be part of a cool family.
 - **File Servers**<br/>
   I have a set of [Linux MD RAID][LinuxRAID] based Samba fileservers that I
-  run in my basement.  I use CentOS7 Linux Minimal and add what I need if I
-  need it, but these systems don't need much.  I use these systems for home,
-  business, and personal data storage, and sometimes a bit of code testing.
-  The next time I set up a storage server I want to give Ubuntu Server a
-  spin.
+  run in my basement.  They're built on CentOS7 Minimal, and I add what
+  packages I need if I need them but these systems don't need much.  I use
+  these systems for business and personal data storage, and sometimes a bit
+  of code testing.  I will be switching to Ubuntu Server as CentOS7
+  approaches end of life.
 <br clear="both"/>
 
 ### 💡 Ideas
@@ -164,6 +164,7 @@ attention.  I just wish I had time to play with them.
   ...is a modified [Free Pascal][FreePascal] compiler that targets the
   Raspberry Pi.  It includes an extensive set of libraries, and the output
   does not require an underlying OS.  Cool, weird, fun, and intriguing.
+  <a href="#"><img align="right" height="160" src="Files/Stairway.png"/></a>
   <br/>
   Years ago, Object Oriented Pascal was my favorite programming language,
   and I was very happy when I stumbled across the [Free Pascal][FreePascal]
@@ -210,10 +211,11 @@ do a bit more learning.
 <a href="#"><img align="left" src="Files/SleepyStudent.png"/></a>
 - **Android Development**<br/>
   You know... apps and such.<br/>
-  A long time ago I co-founded a project called [jCIFS] that eventually grew
-  up to be an important tool for providing SMB1 access from Android devices
-  (and lots of other platforms).  We never updated it for SMB2/3. If someone
-  out there is interested I'm happy to provide some know-how.
+  A long time ago I co-founded a project called [jCIFS] to create a Java
+  client for SMB1.  It wound up in a lot of places, from supercomputers to
+  home media players, but was particularly useful as an SMB1 engine for
+  Android Apps.  Sadly, we all got distracted by other projects and never
+  added SMB2/3 support to [jCIFS].
 - **A bit more about Docker**<br/>
   I've done more than dabble, but I am really just an end-user.  The Windows
   Protocol Test Suites ([WPTS]) can be run from inside a Docker Linux image,
@@ -243,7 +245,7 @@ more stuff on [GitLab][GitLabCRH].
 </p>
 <br clear="both"/>
 <hr>
-<sup>$Id: README.md; 2020-12-07 16:06:30 -0600; crh$</sup>
+<sup>$Id: README.md; 2020-12-15 15:03:53 -0600; crh$</sup>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
