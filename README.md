@@ -161,10 +161,10 @@ such-like, and then there are the bright shiny things that catch my
 attention.  I just wish I had time to play with them.
 
 - **[Ultibo]**<br/>
+  <a href="#"><img align="right" height="160" src="Files/Stairway.png"/></a>
   ...is a modified [Free Pascal][FreePascal] compiler that targets the
   Raspberry Pi.  It includes an extensive set of libraries, and the output
   does not require an underlying OS.  Cool, weird, fun, and intriguing.
-  <a href="#"><img align="right" height="160" src="Files/Stairway.png"/></a>
   <br/>
   Years ago, Object Oriented Pascal was my favorite programming language,
   and I was very happy when I stumbled across the [Free Pascal][FreePascal]
