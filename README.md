@@ -44,15 +44,15 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
   - I started fiddling with [PeerDist][MS-PCCRC] a while back, but have not
     spent time on it in...well...years.  I plan to get back to it.
     Eventually.
-<br clear="both"/>
+    <br clear="both"/>
 
 ### 🎁 Trinkets
-
-- **[_ubiqx_ Modules](https://github.com/ubiqx-org/Modules)**<br/>
-  <a href="#"><img align="left" src="Files/ubiqube.mini.png"/></a>
+- **_ubiqx_ [Modules][ubiModules]**<br/>
+  [<img align="left" src="Files/ubiqube.mini.png">][ubiModules]
   A small collection of fairly common data structures that you may have
   implemented in an undergraduate CS class.  I wrote these long ago.  I
   reuse them rather than rewriting them over and over again.
+  <br clear="both"/>
 
 ### 🏰 My Fiefdom
 
@@ -293,6 +293,7 @@ more stuff on [GitLab][GitLabCRH].
 [SambaTeam]: https://www.samba.org/samba/team/
 [SMB1JoseB]: https://docs.microsoft.com/en-us/archive/blogs/josebda/the-deprecation-of-smb1-you-should-be-planning-to-get-rid-of-this-old-smb-dialect
 [FreePascal]: https://www.freepascal.org/
+[ubiModules]: https://github.com/ubiqx-org/Modules
 [BranchCache]: https://docs.microsoft.com/en-us/windows-server/networking/branchcache/branchcache
 [GoldCheetah]: https://www.goldencheetah.org/
 [WikiPediaSMB]: https://en.wikipedia.org/wiki/Server_Message_Block
