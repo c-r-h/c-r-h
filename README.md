@@ -46,6 +46,14 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
     Eventually.
 <br clear="both"/>
 
+### 🎁 Trinkets
+
+- **[_ubiqx_ Modules](https://github.com/ubiqx-org/Modules)**<br/>
+  <a href="#"><img align="left" src="Files/ubiqube.mini.png"/></a>
+  A small collection of fairly common data structures that you may have
+  implemented in an undergraduate CS class.  I wrote these long ago.  I
+  reuse them rather than rewriting them over and over again.
+
 ### 🏰 My Fiefdom
 
 <a href="#"><img align="right" src="Files/FlyingHouseCloud.png"/></a>
@@ -245,7 +253,7 @@ more stuff on [GitLab][GitLabCRH].
 </p>
 <br clear="both"/>
 <hr>
-<sup>$Id: README.md; 2020-12-15 15:03:53 -0600; crh$</sup>
+<sup>$Id: README.md; 2021-03-15 14:56:06 -0500; crh$</sup>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
