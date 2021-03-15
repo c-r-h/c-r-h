@@ -44,7 +44,7 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
   - I started fiddling with [PeerDist][MS-PCCRC] a while back, but have not
     spent time on it in...well...years.  I plan to get back to it.
     Eventually.
-    <br clear="both"/>
+<br clear="both"/>
 
 ### 🎁 Trinkets
 - **_ubiqx_ [Modules][ubiModules]**<br/>
@@ -52,7 +52,7 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
   A small collection of fairly common data structures that you may have
   implemented in an undergraduate CS class.  I wrote these long ago.  I
   reuse them rather than rewriting them over and over again.
-  <br clear="both"/>
+<br clear="both"/>
 
 ### 🏰 My Fiefdom
 
