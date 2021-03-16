@@ -235,7 +235,7 @@ do a bit more learning.
 
 ☕ I enjoy [a decent cup o'tea](http://ubiqx.org/cifs/Appendix-A.html).<br/>
 🤺 For much of my life I was an active fencer. (Foil:C, Épée:D)<br/>
-🚴 These days I prefer to [ride a bicycle][Musette].<br/>
+🚴 These days I prefer to [ride a bicycle][Cheerleaders].<br/>
 [<img height="20" src="Files/LinkedIn.Logo.png">][LinkedIn] You can find
 me on [LinkedIn].<br/>
 [<img height="20" src="Files/GitLab.Logo.png">][GitLabCRH] You can find
@@ -253,7 +253,7 @@ more stuff on [GitLab][GitLabCRH].
 </p>
 <br clear="both"/>
 <hr>
-<sup>$Id: README.md; 2021-03-15 14:56:06 -0500; crh$</sup>
+<sup>$Id: README.md; 2021-03-16 17:54:04 -0500; crh$</sup>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
@@ -269,7 +269,6 @@ more stuff on [GitLab][GitLabCRH].
 [Crystal]: https://crystal-lang.org/
 [ImpCIFS]: http://ubiqx.org/cifs
 [MS-CIFS]: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-cifs/d416ff7c-c536-406e-a951-4f04b2fd1d2b
-[Musette]: http://mplsmusette.squarespace.com/blog/2020/8/19/guest-post-my-thanks-to-the-cheerleaders
 [OpenBSD]: https://www.openbsd.org/index.html
 [OpenGPS]: https://github.com/vincent290587/stravaV10
 [PFilter]: https://www.openbsd.org/faq/pf/
@@ -297,3 +296,4 @@ more stuff on [GitLab][GitLabCRH].
 [BranchCache]: https://docs.microsoft.com/en-us/windows-server/networking/branchcache/branchcache
 [GoldCheetah]: https://www.goldencheetah.org/
 [WikiPediaSMB]: https://en.wikipedia.org/wiki/Server_Message_Block
+[Cheerleaders]: https://www.strava.com/athletes/8607812/posts/15132462
