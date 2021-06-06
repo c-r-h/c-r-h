@@ -19,12 +19,11 @@ I write code and share knowledge about Windows core network protocols,
 particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
 <a href="#"><img align="left" height="360" src="Files/Pointing.png"/></a>
   - [Implementing CIFS][ImpCIFS]<br/>
-    Long ago, I wrote a book about CIFS (aka SMB1).  Since then,
+    A few years back, I **wrote a book** about CIFS (aka SMB1).  Since then,
     Microsoft has [deprecated SMB1][SMB1JoseB], but the book is still
-    relevant and I, for one, still use it as a reference from time to
-    time.
+    relevant and I, for one, still use it as a reference.
   - [[MS-CIFS]] and [[MS-SMB]]<br/>
-    A bit less long ago, based on the strength of my CIFS book, I was
+    Fewer years back, based on the strength of my CIFS book, I was
     asked to put together a team to write the SMB1 specifications for
     Microsoft.  We wrote [[MS-CIFS]] from scratch and overhauled
     [[MS-SMB]].  The latter volume represents the additions and changes
@@ -208,6 +207,11 @@ So I am looking for an open option.  Here's what I've found so far:
 - **[Pyloton]**<br/>
   ...is much less ambitious than the other projects on the list, but I could
   learn a thing or two from the parts and pieces list alone.
+- **[Karoo-API][HammerheadGIT]**<br/>
+  The folks at Hammerhead, who put out the Karoo bike computer, have started
+  creating toolkits.  It appears to be very new code, much of it forked
+  from other projects (which is fine).  I need to watch and consider getting
+  involved.
 - **[Golden Cheetah][GoldCheetah]**<br/>
   Ride file analytics.  This would pair nicely with an open GPS device.
 <br clear="both"/>
@@ -223,7 +227,8 @@ do a bit more learning.
   client for SMB1.  It wound up in a lot of places, from supercomputers to
   home media players, but was particularly useful as an SMB1 engine for
   Android Apps.  Sadly, we all got distracted by other projects and never
-  added SMB2/3 support to [jCIFS].
+  added SMB2/3 support to [jCIFS] (but see:
+  [jcifs-ng](https://github.com/AgNO3/jcifs-ng)).
 - **A bit more about Docker**<br/>
   I've done more than dabble, but I am really just an end-user.  The Windows
   Protocol Test Suites ([WPTS]) can be run from inside a Docker Linux image,
@@ -253,7 +258,7 @@ more stuff on [GitLab][GitLabCRH].
 </p>
 <br clear="both"/>
 <hr>
-<sup>$Id: README.md; 2021-03-16 19:41:41 -0500; crh$</sup>
+<sup>$Id: README.md; 2021-06-06 16:28:36 -0500; crh$</sup>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
@@ -297,3 +302,4 @@ more stuff on [GitLab][GitLabCRH].
 [GoldCheetah]: https://www.goldencheetah.org/
 [WikiPediaSMB]: https://en.wikipedia.org/wiki/Server_Message_Block
 [Cheerleaders]: https://www.strava.com/athletes/8607812/posts/15132462
+[HammerheadGIT]: https://github.com/hammerheadnav
