@@ -19,9 +19,9 @@ I write code and share knowledge about Windows core network protocols,
 particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
 <a href="#"><img align="left" height="360" src="Files/Pointing.png"/></a>
   - [Implementing CIFS][ImpCIFS]<br/>
-    A few years back, I **wrote a book** about CIFS (aka SMB1).  Since then,
-    Microsoft has [deprecated SMB1][SMB1JoseB], but the book is still
-    relevant and I, for one, still use it as a reference.
+    Several years ago, I **wrote a book** about CIFS (aka SMB1).  Since then,
+    Microsoft has [deprecated SMB1][SMB1JoseB], but the book is still relevant
+    and I, for one, still use it as a reference.
   - [[MS-CIFS]] and [[MS-SMB]]<br/>
     Fewer years back, based on the strength of my CIFS book, I was
     asked to put together a team to write the SMB1 specifications for
@@ -62,29 +62,27 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
   [Packet Filter][PFilter] ([`pf(4)`][PFmanpage]), with routing in between.
   It was a great setup, and I ran things that way for years. More recently,
   I've combined down to a single network.  I run [OpnSense] on a
-  [Protectli Vault][ProVault].  OpnSense is easier to manage day-to day, but
-  I miss being able to fine tune my firewall to meet my own picky
-  specifications and preferences.
+  [Protectli Vault][ProVault].  OpnSense is easier to manage day-to-day, but I
+  miss hand-crafting the config files.  I'm still able to fine tune my firewall
+  to meet my own picky specifications and preferences, but now it's done
+  through a GUI and it feels somewhat disconnected.
 - **Firewall Futures**
   * I used to have uplinks to two disreputable behemoth ISP services.  That's
     down to one, now.  Two would permit load balancing and failover, which I
     would like to try.
   * I want to collect data at the firewalls, and coordinate with
     (anonymized) data from other firewalls to look for patterns.  You know,
-    Big Data/AI stuff.
-- **Reverse Proxy Webserver**<br/>
-  Slowly, but committedly, I'm spending free cycles building up a home web
-  server with the goal of running a reverse caching proxy elsewhere on the
-  'net and connecting the two via VPN.  I'm sharing this effort with a
-  family member, who is an accomplished Software Developer in her own
-  right.  Proud to be part of a cool family.
+    Big Data/AI analysis stuff.
+  * I probably want to set up a distributed VPN to handle the load balancing.
+    Thing is...I really like to get into the guts of the systems I use, and
+    that means spending a lot more time and energy than would be required to
+    buy into a VPN service.
 - **File Servers**<br/>
-  I have a set of [Linux MD RAID][LinuxRAID] based Samba fileservers that I
-  run in my basement.  They're built on CentOS7 Minimal, and I add what
-  packages I need if I need them but these systems don't need much.  I use
-  these systems for business and personal data storage, and sometimes a bit
-  of code testing.  I will be switching to Ubuntu Server as CentOS7
-  approaches end of life.
+  I had a pair of [Linux MD RAID][LinuxRAID] based Samba fileservers that I ran
+  in my basement.  They both aged out, and went to electronics recycling.  I've
+  replaced them with a single small desktop system connected to an external
+  disk array.  It's running Rocky 9, and it works like a charm. The PC I'm
+  using has plenty of unused horsepower to run containers.
 <br clear="both"/>
 
 ### 💡 Ideas
@@ -130,35 +128,6 @@ particularly Server Message Block ([SMB][WikiPediaSMB]).<br/>
   the PeerDist code, add PeerDistv2 support, and write the code for an Open
   Source Hosted Cache.  PeerDist combines all sorts of cool stuff, like
   Protocols, Data Storage, Key/Value Lookup, and Distributed Computing.
-<br clear="both"/>
-
-### 🔩 Cool Hardware
-
-<a href="#"><img height="24" align="left" src="Files/Hardware02.png"/></a>
-My desktop system is twelve years old.  My laptop is ten years old.  My
-Chromebook is only six months old, but that's because the screen shattered
-on my first Chromebook so I bought a new one.  I'm not really into hardware.
-I'm into making software work well even on substandard hardware.
-
-That said, there are some cool products that I've been eyeing:
-
-- <a href="#"><img align="right" height="160" src="Files/Hardware01.png"/></a>
-  The [Kobol Helios64](https://kobol.io/) would be a great little platform
-  for testing out some of my SMB3 Offload ideas.  It'd also work as yet
-  another home storage system.
-- I like the look of the [Seeed Odyssey SBC][SeeedO].  I'm not sure yet
-  exactly how I would use it, and how it would be an improvement over the
-  Raspberry Pi I already have.
-- So... at the core of many a [SmartNIC] is a [DPU]; Data Processing Unit.
-  The DPU is quickly becoming a focus of attention in the industry, and I
-  expect to see them invade motherboard territory in the not-too-distant
-  future.  This is the _perfect_ environment for an SMB3 Offload engine (and
-  NFS offload as well).
-  + Fungible has a [stand-alone DPU][FungiDPU] which, if I read their
-    marketing material correctly, would be added to a computer mainboard for
-    a closer connection with the CPU, memory, etc.
-  + More recently, NVIDA [announced their own DPU][NVidiaDPU] aimed at
-    networking, storage, and security.
 <br clear="both"/>
 
 ### 🧠 Cool Software
@@ -258,7 +227,7 @@ more stuff on [GitLab][GitLabCRH].
 </p>
 <br clear="both"/>
 <hr>
-<sup>$Id: README.md; 2021-06-06 16:28:36 -0500; crh$</sup>
+<sup>$Id: README.md; 2024-08-01 14:58:22 -0500; crh$</sup>
 
 <!-- Reference Links -->
 [DPU]: https://en.wikipedia.org/wiki/Data_processing_unit
